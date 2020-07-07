@@ -1,0 +1,10 @@
+til:
+  shortname: til
+  name: The Information Lab Blog
+  url: https://www.theinformationlab.co.uk/category/blog/
+  picture: assets/images/site-images/icons/external_link.png
+ds:
+  shortname: ds
+  name: The Data School Blog
+  url: https://www.thedataschool.co.uk/blog/
+  picture: assets/images/site-images/icons/external_link.png
