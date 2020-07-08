@@ -4,7 +4,7 @@ cover: assets/images/posts-images/chord-chart-cover.png
 navigation: True
 title: "How to build Chord Chart in Tableau with Table Calculations and LODs"
 date: 2019-11-07 00:00:00
-tags: [Tableau]
+tags: [tableau]
 class: post-template
 subclass: "post"
 author: hanykowska

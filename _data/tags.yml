@@ -1,12 +1,12 @@
 tableau:
-  name: Tableau
+  name: tableau
   description: False
   cover: False
 alteryx:
-  name: Alteryx
+  name: alteryx
   description: "The thrill of solving"
   cover: False
 personal:
   name: personal
-  description: Let's get personal
+  description: "Let's get personal"
   cover: False

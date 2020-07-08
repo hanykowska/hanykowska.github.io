@@ -4,7 +4,7 @@ cover: False
 navigation: True
 title: "Scheduling Alteryx workflow that updates data used in Tableau"
 date: 2019-04-14 00:00:00
-tags: [Tableau, Alteryx]
+tags: [tableau, alteryx]
 class: post-template
 subclass: "post"
 author: hanykowska

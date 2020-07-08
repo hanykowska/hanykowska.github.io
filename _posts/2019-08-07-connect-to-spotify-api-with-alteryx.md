@@ -4,7 +4,7 @@ cover: assets/images/posts-images/spotify-cover.jpg
 navigation: True
 title: "Connect to Spotify API with Alteryx"
 date: 2019-08-07 00:00:00
-tags: [Alteryx]
+tags: [alteryx]
 class: post-template
 subclass: "post"
 author: hanykowska

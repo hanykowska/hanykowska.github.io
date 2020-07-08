@@ -4,7 +4,7 @@ cover: assets/images/posts-images/automated-alteryx-reports-cover.png
 navigation: True
 title: "How to: Automated Alteryx Reports"
 date: 2019-07-02 00:00:00
-tags: [Alteryx]
+tags: [alteryx]
 class: post-template
 subclass: "post"
 author: hanykowska
