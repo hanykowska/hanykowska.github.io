@@ -41,7 +41,7 @@
     </style>
 
     <!-- add canonical links for external posts -->
-    {% raw %}{% if page.external_url %}
+    {% if page.external_url %}
     <link rel="canonical" href="{{ page.external_url }}" />
     {% else %}
     <link
@@ -50,7 +50,7 @@
     />
     <link rel="alternate" type="application/atom+xml" title="{{ site.title }}"
     href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}"> {%
-    endif %}{% endraw %}
+    endif %}
 
     <!--[if IE]>
       <style>
