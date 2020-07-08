@@ -8,7 +8,7 @@ subclass: "post page"
 permalink: /about-me/
 ---
 
-Hi! I've been called many names: Hanna, Hania, Han, Haneczka, Hanka, Hanula, Hanuta, Hanusia, Hanulka, even Heniek (my brother thought it funny to call me by a boy's name). My full name is Hanna Nykowska.
+Hi! I've been called many names: Hanna, Hania, Han, Haneczka, Hanka, Hanula, Hanuta, Hanusia, Hanulka, even Heniek (my brother thought it was funny to call me by a boy's name). My full name is Hanna Nykowska.
 Welcome to my world.
 
 Apart from having to deal with my brother, my childhood was a happy one. Growing up in a family where everyone in my proximity had technical or math-related background it's no wonder I kept that direction. I went on to study biomedical engineering which is a fantastic field combining knowledge on human body and engineering.
