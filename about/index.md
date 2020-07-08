@@ -5,7 +5,7 @@ title: About
 navigation: true
 class: page-template
 subclass: "post page"
-permalink: /about/
+permalink: /about-me/
 ---
 
 Hi! I've been called many names: Hanna, Hania, Han, Haneczka, Hanka, Hanula, Hanuta, Hanusia, Hanulka, even Heniek (my brother thought it funny to call me by a boy's name). My full name is Hanna Nykowska.
