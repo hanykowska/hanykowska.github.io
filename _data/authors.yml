@@ -5,17 +5,17 @@ hanykowska:
   url_full: False
   url: False
   bio: The embodiment of hanykowska
-  picture: assets/images/site-images/hanykowska.JPG
+  picture: /assets/images/site-images/hanykowska.JPG
   facebook: False
   twitter: hanykowska
-  cover: assets/images/blog-cover.jpg
+  cover: /assets/images/blog-cover.jpg
 ghost:
   username: ghost
   name: Ghost
   url_full: http://jekyller.github.io/jasper2/
   url: jekyller.github.io/jasper2
   bio: The professional publishing platform
-  picture: assets/images/ghost.png
+  picture: /assets/images/ghost.png
   facebook: ghost
   twitter: tryghost
   cover: False
@@ -26,7 +26,7 @@ hannah:
   url_full: http://hannah.wf/
   url: hannah.wf
   bio: Hannah is the co-founder and lead developer at Ghost. She spends her days looking after Ghost's developer community, tracking down bugs & ensuring Ghost(Pro) is a happy place.
-  picture: assets/images/hannah.jpg
+  picture: /assets/images/hannah.jpg
   facebook: False
   twitter: erisds
   cover: assets/images/hannah-cover.jpg

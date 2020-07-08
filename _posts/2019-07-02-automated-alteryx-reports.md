@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: assets/images/posts-images/automated-alteryx-reports-cover.png
+cover: /assets/images/posts-images/automated-alteryx-reports-cover.png
 navigation: True
 title: "How to: Automated Alteryx Reports"
 date: 2019-07-02 00:00:00

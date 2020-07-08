@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: assets/images/posts-images/the-index-trick-cover.png
+cover: /assets/images/posts-images/the-index-trick-cover.png
 navigation: True
 title: "Tableau Tip: The INDEX Trick"
 date: 2019-12-31 00:00:00
