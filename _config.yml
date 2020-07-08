@@ -6,11 +6,11 @@ language: "en-uk"
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper2/
+baseurl: /
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: hanykowska
+description: Breaking people since 1994
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
@@ -19,11 +19,11 @@ CNAME: #add cname for website to be created
 
 # Social info
 navigation: True # show the navbar links
-subscribers: True # you need to connect an external service for this to work,
+subscribers: False # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
+twitter: hanykowska # replace by your username
+linkedin: hannanykowska # replace by your username
 
 # Disqus
 disqus: False
@@ -70,7 +70,7 @@ lsi: False
 username: jekyller
 repo: jasper2
 branch: master
-relative_source: ../jasper2/
+relative_source: ../hanykowska.github.io
 destination: ./_site/
 production_url: https://jekyller.github.io/jasper2/
 source_url: https://github.com/jekyller/jasper2/

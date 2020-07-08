@@ -4,7 +4,7 @@ tableau:
   cover: False
 alteryx:
   name: Alteryx
-  description: The thrill of solving
+  description: "The thrill of solving"
   cover: False
 personal:
   name: personal

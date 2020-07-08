@@ -1,3 +1,14 @@
+hanykowska:
+  username: hanykowska
+  name: Hanna Nykowska
+  location: On a plane
+  url_full: False
+  url: False
+  bio: The embodiment of hanykowska
+  picture: assets/images/site-images/hanykowska.JPG
+  facebook: False
+  twitter: hanykowska
+  cover: assets/images/blog-cover.jpg
 ghost:
   username: ghost
   name: Ghost
@@ -19,14 +30,3 @@ hannah:
   facebook: False
   twitter: erisds
   cover: assets/images/hannah-cover.jpg
-hanykowska:
-  username: hanykowska
-  name: Hanna Nykowska
-  location: On a plane
-  url_full: http://john.onolan.org/
-  url: john.onolan.org
-  bio: Founder at Ghost.org. Writes about open source, startup life, non-profits, and publishing platforms. Travels the world with a bag of kites.
-  picture: assets/images/site-images/hanykowska.JPG
-  facebook: False
-  twitter: hanykowska
-  cover: False

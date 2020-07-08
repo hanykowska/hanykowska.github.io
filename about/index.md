@@ -3,15 +3,18 @@ layout: page
 current: about
 title: About
 navigation: true
-logo: 'assets/images/ghost.png'
+picture: "assets/images/site-images/hanykowska.jpg"
 class: page-template
-subclass: 'post page'
+subclass: "post page"
 ---
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+Hi! I've been called many names: Hanna, Hania, Han, Haneczka, Hanka, Hanula, Hanuta, Hanusia, Hanulka, even Heniek (my brother thought it funny to call me by a boy's name). My full name is Hanna Nykowska.
+Welcome to my world.
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
+Apart from having to deal with my brother, my childhood was a happy one. Growing up in a family where everyone in my proximity had technical or math-related background it's no wonder I kept that direction. I went on to study biomedical engineering which is a fantastic field combining knowledge on human body and engineering.
 
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
+Currently, I work as a Data Analyst Consultant, proudly representing [The Data School](https://www.thedataschool.co.uk/) and [The Information Lab](https://www.theinformationlab.co.uk/). I have extensively used Tableau and Alteryx over the past year but I also have some experience with python and now Jekyll!
 
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+This blog will refer any technical posts, or anything I deem interesting, I wrote elsewhere. However, it is not just a redirect to blogs hosted on other websites. Now that I have my very own corner of the internet I can finally play with more things, eg. embedding Tableau dashboards!
+
+Look out for some personal development posts as I learn how to appreciate, celebrate, and nourish my mental health in personal and work lives.
