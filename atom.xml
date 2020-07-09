@@ -98,6 +98,21 @@
     
       
       <item>
+        <title>DS13 seating analysis</title>
+        
+          <description>&lt;p&gt;As we have finished our final presentations, there is one thing that’s left. The seating plan.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+        <link>
+        /ds13-seating-analysis</link>
+        <guid isPermaLink="true">/ds13-seating-analysis</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>The peaks of the Data School</title>
         
           <description>&lt;p&gt;It’s the very last week of training for DS13. It was a crazy ride but fun at that, so here are my top moments of being at the Data School so far.&lt;/p&gt;
@@ -108,6 +123,111 @@
         <link>
         /the-peaks-of-the-data-school</link>
         <guid isPermaLink="true">/the-peaks-of-the-data-school</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Tiny Tableau Tip: how to use a colour palette with a dummy field</title>
+        
+          <description>&lt;p&gt;Can you use the saved colour palettes without picking the screen colour or copying the hex codes? Keep on reading.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+        <link>
+        /tableau-tip-how-to-use-colour-palette-with-dummy-field</link>
+        <guid isPermaLink="true">/tableau-tip-how-to-use-colour-palette-with-dummy-field</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>What’s it like being a Project Manager: let’s get personal</title>
+        
+          <description>&lt;p&gt;In one of my previous blog posts, I wrote some tips on project management. But I didn’t really share my personal experience. Let’s get personal.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+        <link>
+        /whats-it-like-being-a-project-manager</link>
+        <guid isPermaLink="true">/whats-it-like-being-a-project-manager</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Tableau LODs: include and exclude</title>
+        
+          <description>&lt;p&gt;Continuing on my post on FIXED LODs, I wanted to shed some light on INCLUDE and EXCLUDE Level of Detail expressions.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+        <link>
+        /tableau-lods-include-exclude</link>
+        <guid isPermaLink="true">/tableau-lods-include-exclude</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>How to Start with Alteryx Designer</title>
+        
+          <description>&lt;p&gt;A few people have asked me how to start their journey with Alteryx and so I decided to write down what I know.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+        <link>
+        /how-to-start-with-alteryx-designer</link>
+        <guid isPermaLink="true">/how-to-start-with-alteryx-designer</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>16 Practical Tips on Project Management</title>
+        
+          <description>&lt;p&gt;The practical lessons I’ve learnt during my time as project manager.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+        <link>
+        /16-practical-tips-on-project-management</link>
+        <guid isPermaLink="true">/16-practical-tips-on-project-management</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Dashboard Week Day 2: Annihilation by Infographic</title>
+        
+          <description>&lt;p&gt;Dashboard week day 2! Looking at deaths among the avengers while building an infographic.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
+        <link>
+        /dashboard-week-avengers</link>
+        <guid isPermaLink="true">/dashboard-week-avengers</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Intro to Tableau LODs (fixed)</title>
+        
+          <description>&lt;p&gt;Trying to understand Level Of Detail (LOD) expressions in Tableau? You’re in the right place.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+        <link>
+        /intro-to-lods-fixed</link>
+        <guid isPermaLink="true">/intro-to-lods-fixed</guid>
       </item>
       
     

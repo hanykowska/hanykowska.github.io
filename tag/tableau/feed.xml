@@ -8,7 +8,7 @@
     <link href="{{ page.url | absolute_url }}" rel="self" type="application/atom+xml" />
     <link href="{{ '/' | absolute_url }}" rel="alternate" type="text/html" {% if site.lang %}hreflang="{{ site.lang }}" {% endif %}/>
   {% endif %}
-  <updated>2020-07-09T18:06:56+00:00</updated>
+  <updated>2020-07-09T19:50:23+00:00</updated>
   <id>/tag/tableau/feed.xml</id>
 
   
@@ -205,6 +205,221 @@
 
       
         <summary type="html">What are user filters and how can you start using them.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">DS13 seating analysis</title>
+      {% if post.external.external_url %}
+        <link href="{{ post.external_url}}" rel="canonical" title="{{ post.title | xml_escape }}" />
+      {% else %}
+        <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
+      {% endif %}
+      <published>2019-05-24T00:00:00+00:00</published>
+      <updated>2019-05-24T00:00:00+00:00</updated>
+      <id>/ds13-seating-analysis</id>
+      {% if post.external.external_url %}
+        <content type="html" xml:base="{{ post.external_url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% else %}
+        <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% endif %}
+      
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Hanna Nykowska</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="tableau" />
+      
+
+      
+        <summary type="html">As we have finished our final presentations, there is one thing that’s left. The seating plan.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Tiny Tableau Tip: how to use a colour palette with a dummy field</title>
+      {% if post.external.external_url %}
+        <link href="{{ post.external_url}}" rel="canonical" title="{{ post.title | xml_escape }}" />
+      {% else %}
+        <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
+      {% endif %}
+      <published>2019-05-20T00:00:00+00:00</published>
+      <updated>2019-05-20T00:00:00+00:00</updated>
+      <id>/tableau-tip-how-to-use-colour-palette-with-dummy-field</id>
+      {% if post.external.external_url %}
+        <content type="html" xml:base="{{ post.external_url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% else %}
+        <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% endif %}
+      
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Hanna Nykowska</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="tableau" />
+      
+
+      
+        <summary type="html">Can you use the saved colour palettes without picking the screen colour or copying the hex codes? Keep on reading.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Tableau LODs: include and exclude</title>
+      {% if post.external.external_url %}
+        <link href="{{ post.external_url}}" rel="canonical" title="{{ post.title | xml_escape }}" />
+      {% else %}
+        <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
+      {% endif %}
+      <published>2019-05-19T00:00:00+00:00</published>
+      <updated>2019-05-19T00:00:00+00:00</updated>
+      <id>/tableau-lods-include-exclude</id>
+      {% if post.external.external_url %}
+        <content type="html" xml:base="{{ post.external_url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% else %}
+        <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% endif %}
+      
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Hanna Nykowska</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="tableau" />
+      
+
+      
+        <summary type="html">Continuing on my post on FIXED LODs, I wanted to shed some light on INCLUDE and EXCLUDE Level of Detail expressions.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Dashboard Week Day 2: Annihilation by Infographic</title>
+      {% if post.external.external_url %}
+        <link href="{{ post.external_url}}" rel="canonical" title="{{ post.title | xml_escape }}" />
+      {% else %}
+        <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
+      {% endif %}
+      <published>2019-04-25T00:00:00+00:00</published>
+      <updated>2019-04-25T00:00:00+00:00</updated>
+      <id>/dashboard-week-avengers</id>
+      {% if post.external.external_url %}
+        <content type="html" xml:base="{{ post.external_url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% else %}
+        <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% endif %}
+      
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Hanna Nykowska</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="tableau" />
+      
+
+      
+        <summary type="html">Dashboard week day 2! Looking at deaths among the avengers while building an infographic.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Intro to Tableau LODs (fixed)</title>
+      {% if post.external.external_url %}
+        <link href="{{ post.external_url}}" rel="canonical" title="{{ post.title | xml_escape }}" />
+      {% else %}
+        <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
+      {% endif %}
+      <published>2019-04-24T00:00:00+00:00</published>
+      <updated>2019-04-24T00:00:00+00:00</updated>
+      <id>/intro-to-lods-fixed</id>
+      {% if post.external.external_url %}
+        <content type="html" xml:base="{{ post.external_url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% else %}
+        <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% endif %}
+      
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Hanna Nykowska</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="tableau" />
+      
+
+      
+        <summary type="html">Trying to understand Level Of Detail (LOD) expressions in Tableau? You’re in the right place.</summary>
       
 
       

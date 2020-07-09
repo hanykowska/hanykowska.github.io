@@ -8,7 +8,7 @@
     <link href="{{ page.url | absolute_url }}" rel="self" type="application/atom+xml" />
     <link href="{{ '/' | absolute_url }}" rel="alternate" type="text/html" {% if site.lang %}hreflang="{{ site.lang }}" {% endif %}/>
   {% endif %}
-  <updated>2020-07-09T18:06:56+00:00</updated>
+  <updated>2020-07-09T19:50:23+00:00</updated>
   <id>/tag/personal/feed.xml</id>
 
   
@@ -76,6 +76,49 @@
 
       
         <summary type="html">It’s the very last week of training for DS13. It was a crazy ride but fun at that, so here are my top moments of being at the Data School so far.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">What’s it like being a Project Manager: let’s get personal</title>
+      {% if post.external.external_url %}
+        <link href="{{ post.external_url}}" rel="canonical" title="{{ post.title | xml_escape }}" />
+      {% else %}
+        <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
+      {% endif %}
+      <published>2019-05-19T00:00:00+00:00</published>
+      <updated>2019-05-19T00:00:00+00:00</updated>
+      <id>/whats-it-like-being-a-project-manager</id>
+      {% if post.external.external_url %}
+        <content type="html" xml:base="{{ post.external_url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% else %}
+        <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% endif %}
+      
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Hanna Nykowska</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="personal" />
+      
+
+      
+        <summary type="html">In one of my previous blog posts, I wrote some tips on project management. But I didn’t really share my personal experience. Let’s get personal.</summary>
       
 
       
