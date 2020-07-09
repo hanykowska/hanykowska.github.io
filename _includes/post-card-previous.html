@@ -57,12 +57,12 @@
       external_site[1].shortname == post.external_site %} {% if
       external_site[1].picture %}
       <img
-        class="publication-image"
+        class="author-profile-image"
         src="{{ site.baseurl }}{{ external_site[1].picture }}"
         alt="{{ external_site[1].name }}"
       />
       {% endif %}
-      <span class="post-card-publication">
+      <span class="post-card-author">
         <!-- <a href="{{ site.baseurl }}/author/{{ post.author }}/"> -->
         {{ external_site[1].name }}
       </span>
