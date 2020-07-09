@@ -21,3 +21,5 @@ env:
 branches:
   only:
     - master
+
+target_branch: master
