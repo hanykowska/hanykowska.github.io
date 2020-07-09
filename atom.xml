@@ -1,28 +1,99 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.name | xml_escape }} - Articles</title>
-    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
+    <title> - Articles</title>
+    <description>Breaking people since 1994</description>
     <link>
-    {{ site.url }}</link>
-    {% for post in site.posts %}
-      {% unless post.link %}
+    </link>
+    
+      
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        {% if post.excerpt %}
-          <description>{{ post.excerpt | xml_escape }}</description>
-        {% else %}
-          <description>{{ post.content | xml_escape }}</description>
-        {% endif %}
-        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+        <title>Dummy post</title>
+        
+          <description>
+</description>
+        
+        <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
         <link>
-        {{ site.url }}{{ post.url }}</link>
-        <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+        /dummy-post</link>
+        <guid isPermaLink="true">/dummy-post</guid>
       </item>
-      {% endunless %}
-    {% endfor %}
+      
+    
+      
+      <item>
+        <title>Tableau Tip: The INDEX Trick</title>
+        
+          <description>&lt;p&gt;I wanted to share something that I have found very useful in the past year. What I have in mind, is something I call ‘the Index trick’.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+        <link>
+        /the-index-trick</link>
+        <guid isPermaLink="true">/the-index-trick</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>How to build Chord Chart in Tableau with Table Calculations and LODs</title>
+        
+          <description>&lt;p&gt;Want to build a chord chart but don’t have access to fancy data preparation tools? I got you covererd!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
+        <link>
+        /chord-chart-with-table-calcs-and-lods</link>
+        <guid isPermaLink="true">/chord-chart-with-table-calcs-and-lods</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Connect to Spotify API with Alteryx</title>
+        
+          <description>&lt;p&gt;The authentication process for Spotify API is a bit tricky. I thought I’d make your life easier so that you could start using this API yourself!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+        <link>
+        /connect-to-spotify-api-with-alteryx</link>
+        <guid isPermaLink="true">/connect-to-spotify-api-with-alteryx</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>How to: Automated Alteryx Reports</title>
+        
+          <description>&lt;p&gt;Say you have data that gets regularly updated and you need to send those updates to multiple people. Build automated reports with Alteryx!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+        <link>
+        /automated-alteryx-reports</link>
+        <guid isPermaLink="true">/automated-alteryx-reports</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Scheduling Alteryx workflow that updates data used in Tableau</title>
+        
+          <description>&lt;p&gt;How to schedule Alteryx workflow and keep your Tableau dashboard up-to-date?&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+        <link>
+        /scheduling-alteryx-workflow-that-updates-data-used-in-tableau</link>
+        <guid isPermaLink="true">/scheduling-alteryx-workflow-that-updates-data-used-in-tableau</guid>
+      </item>
+      
+    
   </channel>
 </rss>

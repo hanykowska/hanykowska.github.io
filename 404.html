@@ -1,10 +1,3 @@
----
-layout: error
-current: error
-title: "404 - Page Not Found"
-permalink: /404.html
----
-
 <!--
 This error template is used for all 404 errors, which might occur on your site.
 It's a good idea to keep this template as minimal as possible in terms of both file size and complexity.
@@ -15,41 +8,137 @@ It's a good idea to keep this template as minimal as possible in terms of both f
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>{{ page.title }}</title>
+    <title>404 - Page Not Found</title>
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link
       rel="stylesheet"
       type="text/css"
-      href="{{ site.baseurl }}/assets/built/screen.css"
+      href="/assets/built/screen.css"
     />
     <link
       rel="stylesheet"
       type="text/css"
-      href="{{ site.baseurl }}/assets/built/screen.edited.css"
+      href="/assets/built/screen.edited.css"
     />
     <!-- This tag outputs SEO meta+structured data and other important settings -->
-    {% include head.html %}
+    <meta
+  name="description"
+  content="Breaking people since 1994"
+/>
+<link
+  rel="shortcut icon"
+  href="/assets/images/favicon.png"
+  type="image/png"
+/>
+
+<link
+  rel="canonical"
+  href="404.html"
+/>
+
+<meta name="referrer" content="no-referrer-when-downgrade" />
+
+
+<!--title below is coming from _includes/dynamic_title-->
+<meta property="og:site_name" content="hanykowska" />
+<meta property="og:type" content="website" />
+<meta
+  property="og:title"
+  content="404 - Page Not Found"
+/>
+<meta
+  property="og:description"
+  content="Breaking people since 1994"
+/>
+<meta
+  property="og:url"
+  content="404.html"
+/>
+<meta
+  property="og:image"
+  content="/assets/images/blog-cover.jpg"
+/>
+<meta
+  property="article:publisher"
+  content="https://www.facebook.com/"
+/>
+<meta name="twitter:card" content="summary_large_image" />
+<meta
+  name="twitter:title"
+  content="404 - Page Not Found"
+/>
+<meta
+  name="twitter:description"
+  content="Breaking people since 1994"
+/>
+<meta name="twitter:url" content="" />
+<meta
+  name="twitter:image"
+  content="/assets/images/blog-cover.jpg"
+/>
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="hanykowska" />
+<meta name="twitter:site" content="@hanykowska" />
+<meta name="twitter:creator" content="@hanykowska" />
+<meta property="og:image:width" content="2000" />
+<meta property="og:image:height" content="666" />
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Website",
+    "publisher": {
+      "@type": "Organization",
+      "name": "hanykowska",
+      "logo": "/assets/images/blog-icon.png"
+    },
+    "url": "404.html",
+    "image": {
+      "@type": "ImageObject",
+      "url": "/assets/images/blog-cover.jpg",
+      "width": 2000,
+      "height": 666
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "404.html"
+    },
+    "description": "Breaking people since 1994"
+  }
+</script>
+
+<!-- <script type="text/javascript" src="https://demo.ghost.io/public/ghost-sdk.min.js?v=724281a32e"></script>
+    <script type="text/javascript">
+    ghost.init({
+    	clientId: "ghost-frontend",
+    	clientSecret: "f84a07a72b17"
+    });
+    </script> -->
+
+<meta name="generator" content="Jekyll 3.6.2" />
+<link
+  rel="alternate"
+  type="application/rss+xml"
+  title="404 - Page Not Found"
+  href="feed.xml"
+/>
+
   </head>
   <body class="error-template">
     <div class="site-wrapper">
       <header
-        class="site-header outer {% if page.cover %}"
-        style="background-image: url({{ site.baseurl }}{{ page.cover }})){% else %}no-cover{% endif %}"
+        class="site-header outer no-cover"
       >
         <div class="inner">
           <nav class="site-nav-center">
-            {% if site.logo %}
-            <a class="site-nav-logo" href="{{ site.baseurl }}/"
+            
+            <a class="site-nav-logo" href="/"
               ><img
-                src="{{ site.url }}{{site.baseurl}}/{{ site.logo }}"
-                alt="{{ site.title }}"
+                src="//assets/images/blog-icon.png"
+                alt="hanykowska"
             /></a>
-            {% else %}
-            <a class="site-nav-logo" href="{{ site.baseurl }}/"
-              >{{ site.title }}</a
-            >
-            {% endif %}
+            
           </nav>
         </div>
       </header>
@@ -59,7 +148,7 @@ It's a good idea to keep this template as minimal as possible in terms of both f
           <section class="error-message">
             <h1 class="error-code">404</h1>
             <p class="error-description">Page not found</p>
-            <a class="error-link" href="{{ site.baseurl }}/"
+            <a class="error-link" href="/"
               >Go to the front page →</a
             >
           </section>
@@ -71,7 +160,154 @@ It's a good idea to keep this template as minimal as possible in terms of both f
         <div class="inner">
           <div class="post-feed">
             <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
-            {% include post-card-error.html %}
+               
+
+<article
+  class="post-card  no-image"
+>
+  
+  <div class="post-card-content">
+    
+    <a
+      class="post-card-content-link"
+      href="dummy-post"
+    >
+    
+    <header class="post-card-header">
+        <!--   
+        <a class="post-card-tags" href='tag/personal/'>Personal</a>
+           -->
+
+        <h2 class="post-card-title">Dummy post</h2>
+      </header>
+      <section class="post-card-excerpt">
+        
+        <p>
+</p>
+        
+      </section>
+    </a>
+    <footer class="post-card-meta">
+          
+      <!-- <span class="reading-time">
+          1 min read 
+      </span> -->
+    </footer>
+  </div>
+</article>
+  
+
+<article
+  class="post-card "
+>
+  
+  <a class="post-card-image-link" href="https://www.theinformationlab.co.uk/2019/12/31/tableau-tip-the-index-trick/"
+    >
+  
+    <div
+      class="post-card-image"
+      style="background-image: url(/assets/images/posts-images/the-index-trick-cover.png)"
+    ></div>
+  </a>
+  
+  <div class="post-card-content">
+    
+    <a class="post-card-content-link" href="https://www.theinformationlab.co.uk/2019/12/31/tableau-tip-the-index-trick/"
+      >
+    
+    <header class="post-card-header">
+        <!--   
+        <a class="post-card-tags" href='tag/tableau/'>Tableau</a>
+           -->
+
+        <h2 class="post-card-title">Tableau Tip: The INDEX Trick</h2>
+      </header>
+      <section class="post-card-excerpt">
+        
+        <p>I wanted to share something that I have found very useful in the past year. What I have in mind, is something I call ‘the Index trick’.
+
+</p>
+        
+      </section>
+    </a>
+    <footer class="post-card-meta">
+        
+      <img
+        class="author-profile-image"
+        src="/assets/images/site-images/icons/external_link.png"
+        alt="The Information Lab Blog"
+      />
+      
+      <span class="post-card-author">
+        <!-- <a href="author/hanykowska/"> -->
+        The Information Lab Blog
+      </span>
+         
+      <!-- <span class="reading-time">
+          1 min read 
+      </span> -->
+    </footer>
+  </div>
+</article>
+  
+
+<article
+  class="post-card "
+>
+  
+  <a class="post-card-image-link" href="https://www.theinformationlab.co.uk/2019/11/07/chord-chart-with-table-calcs-and-lods/"
+    >
+  
+    <div
+      class="post-card-image"
+      style="background-image: url(/assets/images/posts-images/chord-chart-cover.png)"
+    ></div>
+  </a>
+  
+  <div class="post-card-content">
+    
+    <a class="post-card-content-link" href="https://www.theinformationlab.co.uk/2019/11/07/chord-chart-with-table-calcs-and-lods/"
+      >
+    
+    <header class="post-card-header">
+        <!--   
+        <a class="post-card-tags" href='tag/tableau/'>Tableau</a>
+           -->
+
+        <h2 class="post-card-title">How to build Chord Chart in Tableau with Table Calculations and LODs</h2>
+      </header>
+      <section class="post-card-excerpt">
+        
+        <p>Want to build a chord chart but don’t have access to fancy data preparation tools? I got you covererd!
+
+</p>
+        
+      </section>
+    </a>
+    <footer class="post-card-meta">
+        
+      <img
+        class="author-profile-image"
+        src="/assets/images/site-images/icons/external_link.png"
+        alt="The Information Lab Blog"
+      />
+      
+      <span class="post-card-author">
+        <!-- <a href="author/hanykowska/"> -->
+        The Information Lab Blog
+      </span>
+         
+      <!-- <span class="reading-time">
+          1 min read 
+      </span> -->
+    </footer>
+  </div>
+</article>
+  
+  
+  
+ 
+
           </div>
         </div>
       </aside>
@@ -79,3 +315,4 @@ It's a good idea to keep this template as minimal as possible in terms of both f
     </div>
   </body>
 </html>
+

@@ -11,7 +11,7 @@
 
 
     <title>
-      hanykowska
+      About
     </title>
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -46,7 +46,7 @@
     
     <link
       rel="canonical"
-      href="/"
+      href="/about-me/"
     />
     <link rel="alternate" type="application/atom+xml" title="hanykowska"
     href="/feed.xml"> 
@@ -77,7 +77,7 @@
 
 <link
   rel="canonical"
-  href=""
+  href="about-me/"
 />
 
 <meta name="referrer" content="no-referrer-when-downgrade" />
@@ -88,15 +88,15 @@
 <meta property="og:type" content="website" />
 <meta
   property="og:title"
-  content="hanykowska"
+  content="About"
 />
 <meta
   property="og:description"
-  content="Breaking people since 1994"
+  content="Hi! I've been called many names: Hanna, Hania, Han, Haneczka, Hanka, Hanula, Hanuta, Hanusia, Hanulka, even Heniek (my brother thought it was funny to call me by a boy's name). My full name is Hanna Nykowska. Welcome to my world. Apart from having to deal with my brother, my childhood"
 />
 <meta
   property="og:url"
-  content=""
+  content="about-me/"
 />
 <meta
   property="og:image"
@@ -106,14 +106,26 @@
   property="article:publisher"
   content="https://www.facebook.com/"
 />
+<meta
+  property="article:author"
+  content="https://www.facebook.com/"
+/>
+<meta
+  property="article:published_time"
+  content=""
+/>
+<meta
+  property="article:modified_time"
+  content=""
+/>
 <meta name="twitter:card" content="summary_large_image" />
 <meta
   name="twitter:title"
-  content="hanykowska"
+  content="About"
 />
 <meta
   name="twitter:description"
-  content="Breaking people since 1994"
+  content="Hi! I've been called many names: Hanna, Hania, Han, Haneczka, Hanka, Hanula, Hanuta, Hanusia, Hanulka, even Heniek (my brother thought it was funny to call me by a boy's name). My full name is Hanna Nykowska. Welcome to my world. Apart from having to deal with my brother, my childhood"
 />
 <meta name="twitter:url" content="" />
 <meta
@@ -124,8 +136,8 @@
 <meta name="twitter:data1" content="hanykowska" />
 <meta name="twitter:site" content="@hanykowska" />
 <meta name="twitter:creator" content="@hanykowska" />
-<meta property="og:image:width" content="2000" />
-<meta property="og:image:height" content="666" />
+<meta property="og:image:width" content="1400" />
+<meta property="og:image:height" content="933" />
 
 <script type="application/ld+json">
   {
@@ -136,7 +148,7 @@
       "name": "hanykowska",
       "logo": "/assets/images/blog-icon.png"
     },
-    "url": "",
+    "url": "about-me/",
     "image": {
       "@type": "ImageObject",
       "url": "/assets/images/blog-cover.jpg",
@@ -145,9 +157,9 @@
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": ""
+      "@id": "about-me/"
     },
-    "description": "Breaking people since 1994"
+    "description": "Hi! I've been called many names: Hanna, Hania, Han, Haneczka, Hanka, Hanula, Hanuta, Hanusia, Hanulka, even Heniek (my brother thought it was funny to call me by a boy's name). My full name is Hanna Nykowska. Welcome to my world. Apart from having to deal with my brother, my childhood"
   }
 </script>
 
@@ -163,13 +175,13 @@
 <link
   rel="alternate"
   type="application/rss+xml"
-  title="hanykowska"
+  title="About"
   href="feed.xml"
 />
 
   </head>
   <body
-    class="home-template"
+    class="page-template"
   >
     <div class="site-wrapper">
       <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
@@ -178,19 +190,15 @@
 into the {body} of the default.hbs template -->
 
 <!-- The big featured header, it uses blog cover image as a BG if available -->
-<header class="site-header outer " style="background-image:  url(/assets/images/blog-cover.jpg) ">
+<header class="site-header outer">
     <div class="inner">
-        <div class="site-header-content">
-            <h1 class="site-title">
-                
-                    <img class="site-logo" src="/assets/images/blog-icon.png" alt="hanykowska"/>
-                
-            </h1>
-            <h2 class="site-description">Breaking people since 1994</h2>
-        </div>
         <nav class="site-nav">
   <div class="site-nav-left">
-      <ul class="nav" role="menu">
+     
+    <a class="site-nav-logo" href=""
+      ><img src="/assets/images/blog-icon.png" alt="hanykowska"
+    /></a>
+       <ul class="nav" role="menu">
   <li class="nav-home" role="menuitem"><a href="/">Home</a></li>
   <li class="nav-about" role="menuitem">
     <a href="/about-me/">About</a>
@@ -241,310 +249,49 @@ into the {body} of the default.hbs template -->
     </div>
 </header>
 
-<!-- The main content area -->
+<!-- Everything inside the #post tags pulls data from the post -->
+<!-- #post -->
+
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
 
-        <div class="post-feed">
-            <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
-             
-<article
-  class="post-card home-template no-image"
->
-  
-  <div class="post-card-content">
-    
-    <a
-      class="post-card-content-link"
-      href="dummy-post"
-    >
-    
-      <header class="post-card-header">
-        <!--   
-        <a class="post-card-tags" href='tag/personal/'>Personal</a>
-           -->
+        <article class="post-full  post page no-image">
 
-        <h2 class="post-card-title">Dummy post</h2>
-      </header>
-      <section class="post-card-excerpt">
-        
-        <p>
-</p>
-        
-      </section>
-    </a>
-    <footer class="post-card-meta">
-          
-      <!-- <span class="reading-time">
-          1 min read 
-      </span> -->
-    </footer>
-  </div>
-</article>
+            <header class="post-full-header">
+                <h1 class="post-full-title">About</h1>
+            </header>
 
-<article
-  class="post-card home-template"
->
-   
-  <a class="post-card-image-link" href="https://www.theinformationlab.co.uk/2019/12/31/tableau-tip-the-index-trick/"
-    >
-  
-    <div
-      class="post-card-image"
-      style="background-image: url(/assets/images/posts-images/the-index-trick-cover.png)"
-    ></div>
-  </a>
-  
-  <div class="post-card-content">
-    
-    <a class="post-card-content-link" href="https://www.theinformationlab.co.uk/2019/12/31/tableau-tip-the-index-trick/"
-      >
-    
-      <header class="post-card-header">
-        <!--   
-        <a class="post-card-tags" href='tag/tableau/'>Tableau</a>
-           -->
+            
 
-        <h2 class="post-card-title">Tableau Tip: The INDEX Trick</h2>
-      </header>
-      <section class="post-card-excerpt">
-        
-        <p>I wanted to share something that I have found very useful in the past year. What I have in mind, is something I call ‘the Index trick’.
+            <section class="post-full-content">
+                <p>Hi! I’ve been called many names: Hanna, Hania, Han, Haneczka, Hanka, Hanula, Hanuta, Hanusia, Hanulka, even Heniek (my brother thought it was funny to call me by a boy’s name). My full name is Hanna Nykowska.
+Welcome to my world.</p>
 
-</p>
-        
-      </section>
-    </a>
-    <footer class="post-card-meta">
-        
-      <img
-        class="author-profile-image"
-        src="/assets/images/site-images/icons/external_link.png"
-        alt="The Information Lab Blog"
-      />
-      
-      <span class="post-card-author">
-        <!-- <a href="author/hanykowska/"> -->
-        The Information Lab Blog
-      </span>
-         
-      <!-- <span class="reading-time">
-          1 min read 
-      </span> -->
-    </footer>
-  </div>
-</article>
+<p>Apart from having to deal with my brother, my childhood was a happy one. Growing up in a family where everyone in my proximity had technical or math-related background it’s no wonder I kept that direction. I went on to study biomedical engineering which is a fantastic field combining knowledge on human body and engineering.</p>
 
-<article
-  class="post-card home-template"
->
-   
-  <a class="post-card-image-link" href="https://www.theinformationlab.co.uk/2019/11/07/chord-chart-with-table-calcs-and-lods/"
-    >
-  
-    <div
-      class="post-card-image"
-      style="background-image: url(/assets/images/posts-images/chord-chart-cover.png)"
-    ></div>
-  </a>
-  
-  <div class="post-card-content">
-    
-    <a class="post-card-content-link" href="https://www.theinformationlab.co.uk/2019/11/07/chord-chart-with-table-calcs-and-lods/"
-      >
-    
-      <header class="post-card-header">
-        <!--   
-        <a class="post-card-tags" href='tag/tableau/'>Tableau</a>
-           -->
+<p>Currently, I work as a Data Analyst Consultant, proudly representing <a href="https://www.thedataschool.co.uk/">The Data School</a> and <a href="https://www.theinformationlab.co.uk/">The Information Lab</a>. I have extensively used Tableau and Alteryx over the past year but I also have some experience with python and now Jekyll!</p>
 
-        <h2 class="post-card-title">How to build Chord Chart in Tableau with Table Calculations and LODs</h2>
-      </header>
-      <section class="post-card-excerpt">
-        
-        <p>Want to build a chord chart but don’t have access to fancy data preparation tools? I got you covererd!
+<p>This blog will refer any technical posts, or anything I deem interesting, I wrote elsewhere. However, it is not just a redirect to blogs hosted on other websites. Now that I have my very own corner of the internet I can finally play with more things, eg. embedding Tableau dashboards!</p>
 
-</p>
-        
-      </section>
-    </a>
-    <footer class="post-card-meta">
-        
-      <img
-        class="author-profile-image"
-        src="/assets/images/site-images/icons/external_link.png"
-        alt="The Information Lab Blog"
-      />
-      
-      <span class="post-card-author">
-        <!-- <a href="author/hanykowska/"> -->
-        The Information Lab Blog
-      </span>
-         
-      <!-- <span class="reading-time">
-          1 min read 
-      </span> -->
-    </footer>
-  </div>
-</article>
+<p>Look out for some personal development posts as I learn how to appreciate, celebrate, and nourish my mental health in personal and work lives.</p>
 
-<article
-  class="post-card home-template"
->
-   
-  <a class="post-card-image-link" href="https://www.theinformationlab.co.uk/2019/08/07/connect-to-spotify-api-with-alteryx/"
-    >
-  
-    <div
-      class="post-card-image"
-      style="background-image: url(/assets/images/posts-images/spotify-cover.jpg)"
-    ></div>
-  </a>
-  
-  <div class="post-card-content">
-    
-    <a class="post-card-content-link" href="https://www.theinformationlab.co.uk/2019/08/07/connect-to-spotify-api-with-alteryx/"
-      >
-    
-      <header class="post-card-header">
-        <!--   
-        <a class="post-card-tags" href='tag/alteryx/'>Alteryx</a>
-           -->
+            </section>
 
-        <h2 class="post-card-title">Connect to Spotify API with Alteryx</h2>
-      </header>
-      <section class="post-card-excerpt">
-        
-        <p>The authentication process for Spotify API is a bit tricky. I thought I’d make your life easier so that you could start using this API yourself!
-
-</p>
-        
-      </section>
-    </a>
-    <footer class="post-card-meta">
-        
-      <img
-        class="author-profile-image"
-        src="/assets/images/site-images/icons/external_link.png"
-        alt="The Information Lab Blog"
-      />
-      
-      <span class="post-card-author">
-        <!-- <a href="author/hanykowska/"> -->
-        The Information Lab Blog
-      </span>
-         
-      <!-- <span class="reading-time">
-          1 min read 
-      </span> -->
-    </footer>
-  </div>
-</article>
-
-<article
-  class="post-card home-template"
->
-   
-  <a class="post-card-image-link" href="https://www.theinformationlab.co.uk/2019/07/02/how-to-automated-alteryx-reports/"
-    >
-  
-    <div
-      class="post-card-image"
-      style="background-image: url(/assets/images/posts-images/automated-alteryx-reports-cover.png)"
-    ></div>
-  </a>
-  
-  <div class="post-card-content">
-    
-    <a class="post-card-content-link" href="https://www.theinformationlab.co.uk/2019/07/02/how-to-automated-alteryx-reports/"
-      >
-    
-      <header class="post-card-header">
-        <!--   
-        <a class="post-card-tags" href='tag/alteryx/'>Alteryx</a>
-           -->
-
-        <h2 class="post-card-title">How to: Automated Alteryx Reports</h2>
-      </header>
-      <section class="post-card-excerpt">
-        
-        <p>Say you have data that gets regularly updated and you need to send those updates to multiple people. Build automated reports with Alteryx!
-
-</p>
-        
-      </section>
-    </a>
-    <footer class="post-card-meta">
-        
-      <img
-        class="author-profile-image"
-        src="/assets/images/site-images/icons/external_link.png"
-        alt="The Information Lab Blog"
-      />
-      
-      <span class="post-card-author">
-        <!-- <a href="author/hanykowska/"> -->
-        The Information Lab Blog
-      </span>
-         
-      <!-- <span class="reading-time">
-          1 min read 
-      </span> -->
-    </footer>
-  </div>
-</article>
-
-<article
-  class="post-card home-template no-image"
->
-  
-  <div class="post-card-content">
-    
-    <a class="post-card-content-link" href="https://www.thedataschool.co.uk/hanna-nykowska/scheduling-alteryx-workflow-that-updates-data-used-in-tableau/"
-      >
-    
-      <header class="post-card-header">
-        <!--   
-        <a class="post-card-tags" href='tag/tableau/'>Tableau</a>
-          
-        <a class="post-card-tags" href='tag/alteryx/'>Alteryx</a>
-           -->
-
-        <h2 class="post-card-title">Scheduling Alteryx workflow that updates data used in Tableau</h2>
-      </header>
-      <section class="post-card-excerpt">
-        
-        <p>How to schedule Alteryx workflow and keep your Tableau dashboard up-to-date?
-
-</p>
-        
-      </section>
-    </a>
-    <footer class="post-card-meta">
-          
-      <img
-        class="author-profile-image"
-        src="/assets/images/site-images/icons/external_link.png"
-        alt="The Data School Blog"
-      />
-      
-      <span class="post-card-author">
-        <!-- <a href="author/hanykowska/"> -->
-        The Data School Blog
-      </span>
-       
-      <!-- <span class="reading-time">
-          1 min read 
-      </span> -->
-    </footer>
-  </div>
-</article>
-
-
-        </div>
+        </article>
 
     </div>
 </main>
+
+<!-- /post -->
+
+<!-- The #contentFor helper here will send everything inside it up to the matching #block helper found in default.hbs -->
+<script>
+$(function() {
+    var $postContent = $(".post-full-content");
+    $postContent.fitVids();
+});
+</script>
+
 
 
       <!-- Previous/next page links - displayed on every page -->
@@ -620,7 +367,7 @@ into the {body} of the default.hbs template -->
     <!-- Paginator increased to "infinit" in _config.yml -->
     <!-- if paginator.posts  -->
     <!-- <script>
-        var maxPages = parseInt('1');
+        var maxPages = parseInt('');
     </script>
     <script src="assets/js/infinitescroll.js"></script> -->
     <!-- /endif -->
@@ -642,7 +389,13 @@ into the {body} of the default.hbs template -->
 
 
     <!-- The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in post.hbs, but it needs to be included down here, after jQuery has already loaded. -->
-    
+     <script>
+$(function() {
+    var $postContent = $(".post-full-content");
+    $postContent.fitVids();
+});
+</script>
+ 
 
     <!-- Ghost outputs important scripts and data with this tag - it should always be the very last thing before the closing body tag -->
     <!-- ghost_foot -->
