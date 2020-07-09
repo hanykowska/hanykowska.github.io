@@ -8,7 +8,7 @@
     <link href="{{ page.url | absolute_url }}" rel="self" type="application/atom+xml" />
     <link href="{{ '/' | absolute_url }}" rel="alternate" type="text/html" {% if site.lang %}hreflang="{{ site.lang }}" {% endif %}/>
   {% endif %}
-  <updated>2020-07-09T17:32:58+00:00</updated>
+  <updated>2020-07-09T18:06:56+00:00</updated>
   <id>/author/hanykowska/feed.xml</id>
 
   
@@ -38,49 +38,6 @@
   
   
 
-  
-    <entry>
-      <title type="html">Dummy post</title>
-      {% if post.external.external_url %}
-        <link href="{{ post.external_url}}" rel="canonical" title="{{ post.title | xml_escape }}" />
-      {% else %}
-        <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
-      {% endif %}
-      <published>2020-07-08T00:00:00+00:00</published>
-      <updated>2020-07-08T00:00:00+00:00</updated>
-      <id>/dummy-post</id>
-      {% if post.external.external_url %}
-        <content type="html" xml:base="{{ post.external_url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
-      {% else %}
-        <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
-      {% endif %}
-      
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Hanna Nykowska</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="personal" />
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
   
     <entry>
       <title type="html">Tableau Tip: The INDEX Trick</title>
@@ -212,6 +169,49 @@
     </entry>
   
     <entry>
+      <title type="html">Tableau Tip: Highlight Table with Info Icons</title>
+      {% if post.external.external_url %}
+        <link href="{{ post.external_url}}" rel="canonical" title="{{ post.title | xml_escape }}" />
+      {% else %}
+        <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
+      {% endif %}
+      <published>2019-07-23T00:00:00+00:00</published>
+      <updated>2019-07-23T00:00:00+00:00</updated>
+      <id>/tableau-tip-highlight-table-with-info-icons</id>
+      {% if post.external.external_url %}
+        <content type="html" xml:base="{{ post.external_url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% else %}
+        <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% endif %}
+      
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Hanna Nykowska</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="tableau" />
+      
+
+      
+        <summary type="html">Oh, so you want detailed data in form of highlight table that includes info button for each row? I got you covered!</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
       <title type="html">How to: Automated Alteryx Reports</title>
       {% if post.external.external_url %}
         <link href="{{ post.external_url}}" rel="canonical" title="{{ post.title | xml_escape }}" />
@@ -248,6 +248,92 @@
 
       
         <summary type="html">Say you have data that gets regularly updated and you need to send those updates to multiple people. Build automated reports with Alteryx!</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Tableau (Server) Tip: Intro to User Filters</title>
+      {% if post.external.external_url %}
+        <link href="{{ post.external_url}}" rel="canonical" title="{{ post.title | xml_escape }}" />
+      {% else %}
+        <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
+      {% endif %}
+      <published>2019-05-24T00:00:00+00:00</published>
+      <updated>2019-05-24T00:00:00+00:00</updated>
+      <id>/tableau-server-tip-intro-to-user-filters</id>
+      {% if post.external.external_url %}
+        <content type="html" xml:base="{{ post.external_url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% else %}
+        <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% endif %}
+      
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Hanna Nykowska</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="tableau" />
+      
+
+      
+        <summary type="html">What are user filters and how can you start using them.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">The peaks of the Data School</title>
+      {% if post.external.external_url %}
+        <link href="{{ post.external_url}}" rel="canonical" title="{{ post.title | xml_escape }}" />
+      {% else %}
+        <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
+      {% endif %}
+      <published>2019-05-23T00:00:00+00:00</published>
+      <updated>2019-05-23T00:00:00+00:00</updated>
+      <id>/the-peaks-of-the-data-school</id>
+      {% if post.external.external_url %}
+        <content type="html" xml:base="{{ post.external_url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% else %}
+        <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% endif %}
+      
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Hanna Nykowska</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="personal" />
+      
+
+      
+        <summary type="html">It’s the very last week of training for DS13. It was a crazy ride but fun at that, so here are my top moments of being at the Data School so far.</summary>
       
 
       

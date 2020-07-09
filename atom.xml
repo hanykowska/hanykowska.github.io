@@ -8,20 +8,6 @@
     
       
       <item>
-        <title>Dummy post</title>
-        
-          <description>
-</description>
-        
-        <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-        <link>
-        /dummy-post</link>
-        <guid isPermaLink="true">/dummy-post</guid>
-      </item>
-      
-    
-      
-      <item>
         <title>Tableau Tip: The INDEX Trick</title>
         
           <description>&lt;p&gt;I wanted to share something that I have found very useful in the past year. What I have in mind, is something I call ‘the Index trick’.&lt;/p&gt;
@@ -67,6 +53,21 @@
     
       
       <item>
+        <title>Tableau Tip: Highlight Table with Info Icons</title>
+        
+          <description>&lt;p&gt;Oh, so you want detailed data in form of highlight table that includes info button for each row? I got you covered!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
+        <link>
+        /tableau-tip-highlight-table-with-info-icons</link>
+        <guid isPermaLink="true">/tableau-tip-highlight-table-with-info-icons</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>How to: Automated Alteryx Reports</title>
         
           <description>&lt;p&gt;Say you have data that gets regularly updated and you need to send those updates to multiple people. Build automated reports with Alteryx!&lt;/p&gt;
@@ -77,6 +78,36 @@
         <link>
         /automated-alteryx-reports</link>
         <guid isPermaLink="true">/automated-alteryx-reports</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Tableau (Server) Tip: Intro to User Filters</title>
+        
+          <description>&lt;p&gt;What are user filters and how can you start using them.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+        <link>
+        /tableau-server-tip-intro-to-user-filters</link>
+        <guid isPermaLink="true">/tableau-server-tip-intro-to-user-filters</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>The peaks of the Data School</title>
+        
+          <description>&lt;p&gt;It’s the very last week of training for DS13. It was a crazy ride but fun at that, so here are my top moments of being at the Data School so far.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
+        <link>
+        /the-peaks-of-the-data-school</link>
+        <guid isPermaLink="true">/the-peaks-of-the-data-school</guid>
       </item>
       
     
