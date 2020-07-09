@@ -69,7 +69,7 @@ safe: False
 lsi: False
 username: hanykowska
 repo: hanykowska.github.io
-branch: master
+branch: dev
 relative_source: ../hanykowska.github.io
 destination: ./_site/
 production_url: https://hanykowska.github.io/
