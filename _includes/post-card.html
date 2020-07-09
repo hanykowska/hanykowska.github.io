@@ -10,7 +10,7 @@ in paginator.posts %}
 
   <a
     class="post-card-image-link"
-    href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}"
+    href="{{ site.baseurl }}{{ post.url }}"
   >
     {% endif %}
     <div
@@ -26,7 +26,7 @@ in paginator.posts %}
     {% else %}
     <a
       class="post-card-content-link"
-      href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}"
+      href="{{ site.baseurl }}{{ post.url }}"
     >
     {% endif %}
       <header class="post-card-header">
@@ -51,13 +51,13 @@ in paginator.posts %}
       {% for external_site in site.data.external_sites %} {% if external_site[1].shortname ==
       post.external_site %} {% if external_site[1].picture %}
       <img
-        class="author-profile-image"
+        class="publication-image"
         src="{{ site.baseurl }}{{ external_site[1].picture }}"
         alt="{{ external_site[1].name }}"
       />
       {% endif %}
-      <span class="post-card-author">
-        <!-- <a href="{{ site.baseurl }}author/{{ post.author }}/"> -->
+      <span class="post-card-publication">
+        <!-- <a href="{{ site.baseurl }}/author/{{ post.author }}/"> -->
         {{ external_site[1].name }}
       </span>
       {% endif %} {% endfor %}
