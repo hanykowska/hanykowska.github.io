@@ -323,6 +323,21 @@
     
       
       <item>
+        <title>Makover Monday 2019w13 – What do Millennials spend their money on?</title>
+        
+          <description>&lt;p&gt;Looking at makeovermonday 2019w13: the good the bad and how to improve&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+        <link>
+        /2019w13-makeover-monday</link>
+        <guid isPermaLink="true">/2019w13-makeover-monday</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Alteryx Certification: Designer Advanced Exam</title>
         
           <description>&lt;p&gt;Describing my experience with passing the Alteryx Designer Advanced Certification, together with some tips for interested.&lt;/p&gt;
@@ -333,6 +348,291 @@
         <link>
         /alteryx-advanced</link>
         <guid isPermaLink="true">/alteryx-advanced</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Tiny Tableau Tip: How to get rid of the map background</title>
+        
+          <description>&lt;p&gt;A tiny tableau tip on getting rid of the map background, very useful when you’re building a dashboard with a coloured background.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+        <link>
+        /how-to-get-rid-of-map-background</link>
+        <guid isPermaLink="true">/how-to-get-rid-of-map-background</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>MakeoverMonday 2019w12</title>
+        
+          <description>&lt;p&gt;My first blog on makeover monday; describing the good and the bad of original viz and how I tried to make it better&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+        <link>
+        /2019w12-makeover-monday</link>
+        <guid isPermaLink="true">/2019w12-makeover-monday</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Attending VizForSocialGood Hackathon – what is it and why is it worth going to</title>
+        
+          <description>&lt;p&gt;A description of viz for social good hackathon from the perspective of an attendee: what is it and why is it worth going to.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+        <link>
+        /viz-for-social-good</link>
+        <guid isPermaLink="true">/viz-for-social-good</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Tableau Tip: Map Drill-Down</title>
+        
+          <description>&lt;p&gt;Tableau tip on creating a drill down map using a simple filter action.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        <link>
+        /map-drill-down</link>
+        <guid isPermaLink="true">/map-drill-down</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Alteryx Certification: Designer Core Exam</title>
+        
+          <description>&lt;p&gt;Short summary of Alteryx Designer Core Exam from my perspective and what helped me pass it.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+        <link>
+        /alteryx-core</link>
+        <guid isPermaLink="true">/alteryx-core</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Tableau Tip: Tooltip Viz</title>
+        
+          <description>&lt;p&gt;Short tutorial on how to create a tooltip viz that is susceptible to dashboard actions&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+        <link>
+        /tableau-tip-tooltip-viz</link>
+        <guid isPermaLink="true">/tableau-tip-tooltip-viz</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Alteryx Challenge: Macros</title>
+        
+          <description>&lt;p&gt;Alteryx Challenge update: I’m describing the macros-related weekly challenges.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 03 Mar 2019 00:00:00 +0000</pubDate>
+        <link>
+        /alteryx-challenge-macros</link>
+        <guid isPermaLink="true">/alteryx-challenge-macros</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Tableau Tip: dynamic date level aggregation</title>
+        
+          <description>&lt;p&gt;Quick way of creating a dynamic date level aggregation using a parameter.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+        <link>
+        /tableau-tip-dunamic-date</link>
+        <guid isPermaLink="true">/tableau-tip-dunamic-date</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Preppin’ Data: Week 2 Recap</title>
+        
+          <description>&lt;p&gt;Summary of the week 2 Preppin’ Data challenge.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+        <link>
+        /preppin-data-week2</link>
+        <guid isPermaLink="true">/preppin-data-week2</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Alteryx Challenge: Data Cleansing</title>
+        
+          <description>&lt;p&gt;Tips for Data Cleansing challenges and an update on Alteryx Challenge (finishing all Weekly Challenges by the end of DS training)&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+        <link>
+        /alteryx-challenge-cleansing</link>
+        <guid isPermaLink="true">/alteryx-challenge-cleansing</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Tableau Tip: Calendar View (Part 4)</title>
+        
+          <description>&lt;p&gt;If you want to build a 12-month calendar in one view in Tableau, you’ve found the right place. (I even explain how to add month labels!)&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+        <link>
+        /tableau-calendar-pt4</link>
+        <guid isPermaLink="true">/tableau-calendar-pt4</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Tableau Tip: Calendar View (Part 3)</title>
+        
+          <description>&lt;p&gt;3rd in the series, this blog post describes how to deal with missing data in dates. For a 12-month calendar tutorial, go to Part 4 (link in this post as well)&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+        <link>
+        /tableau-calendar-pt3</link>
+        <guid isPermaLink="true">/tableau-calendar-pt3</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Tableau Tip: Calendar View (Part 2)</title>
+        
+          <description>&lt;p&gt;Part 2 of calendar magic AKA tutorial on creating a horizontal calendar view.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+        <link>
+        /tableau-calendar-pt2</link>
+        <guid isPermaLink="true">/tableau-calendar-pt2</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Tableau Tip: Calendar View (Part 1)</title>
+        
+          <description>&lt;p&gt;A tutorial on creating a calendar view to visualise your date-related data.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+        <link>
+        /tableau-calendar-pt1</link>
+        <guid isPermaLink="true">/tableau-calendar-pt1</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Tableau Tip: copy and paste data from a data source already in Tableau</title>
+        
+          <description>&lt;p&gt;Why and how would you copy and paste part of a dataset that is already loaded to Tableau? Keep reading.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 17 Feb 2019 00:00:00 +0000</pubDate>
+        <link>
+        /tableau-copy-and-paste-from-datasource</link>
+        <guid isPermaLink="true">/tableau-copy-and-paste-from-datasource</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Alteryx Challenge: Intro to Alteryx</title>
+        
+          <description>&lt;p&gt;First post in the Alteryx Challenge series, where I describe the tools I’ve used for Weekly Challenges and some tricks I’ve learnt.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+        <link>
+        /alteryx-challenge-intro-to-alteryx</link>
+        <guid isPermaLink="true">/alteryx-challenge-intro-to-alteryx</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Alteryx Challenge: Dates</title>
+        
+          <description>&lt;p&gt;Second in the Alteryx Challenge series. Tackling my experience with dates.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+        <link>
+        /alteryx-challenge-dates</link>
+        <guid isPermaLink="true">/alteryx-challenge-dates</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Overambition, fear of failure and impostor syndrome: welcome to my brain</title>
+        
+          <description>&lt;p&gt;Seemingly, listening to other people talk about their struggles and how they deal with or even overcome them is actually quite helpful. With that in mind, I thought I’d share some of my experience.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
+        <link>
+        /overambition</link>
+        <guid isPermaLink="true">/overambition</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Week 1 done, 15 more to go</title>
+        
+          <description>&lt;p&gt;Intro to Alteryx Weekly Challenges and a challenge I created for myself.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
+        <link>
+        /alteryx-challenge</link>
+        <guid isPermaLink="true">/alteryx-challenge</guid>
       </item>
       
     
