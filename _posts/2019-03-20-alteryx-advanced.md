@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: False
+cover: /assets/images/posts-images/Certification-advanced-2019.png
 navigation: True
 title: "Alteryx Certification: Designer Advanced Exam"
 date: 2019-03-20 00:00:00
