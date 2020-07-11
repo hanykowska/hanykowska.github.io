@@ -233,6 +233,66 @@
     
       
       <item>
+        <title>Custom shapes in Tableau (hand-drawn and downloaded with Alteryx)</title>
+        
+          <description>&lt;p&gt;How to get custom shapes in Tableau using hand-drawn images and those downloaded in bulk with Alteryx.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
+        <link>
+        /custom-shapes-in-tableau-download-with-alteryx</link>
+        <guid isPermaLink="true">/custom-shapes-in-tableau-download-with-alteryx</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Teaching Tableau</title>
+        
+          <description>&lt;p&gt;My experience with teaching Tableau to others: public and another cohort in person, and public via webinar. The Good, the Bad and Lessons Learnt.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+        <link>
+        /teaching-tableau</link>
+        <guid isPermaLink="true">/teaching-tableau</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Makeover Monday 2019w16 – bars bars (bars)</title>
+        
+          <description>&lt;p&gt;Looking at #makeovermonday 2019w16: word use in the ‘Info we Trust’ book by RJ Andrews&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+        <link>
+        /2019w16-makeover-monday</link>
+        <guid isPermaLink="true">/2019w16-makeover-monday</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Unzipping files in Alteryx</title>
+        
+          <description>&lt;p&gt;How to automatically unzip files in Alteryx using download tool and dynamic input&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+        <link>
+        /unzipping-files-in-alteryx</link>
+        <guid isPermaLink="true">/unzipping-files-in-alteryx</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Scheduling Alteryx workflow that updates data used in Tableau</title>
         
           <description>&lt;p&gt;How to schedule Alteryx workflow and keep your Tableau dashboard up-to-date?&lt;/p&gt;
@@ -243,6 +303,36 @@
         <link>
         /scheduling-alteryx-workflow-that-updates-data-used-in-tableau</link>
         <guid isPermaLink="true">/scheduling-alteryx-workflow-that-updates-data-used-in-tableau</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Makeover Monday 2019w14: 2 metres of cotton buds</title>
+        
+          <description>&lt;p&gt;Looking at makeovermonday 2019w14: the good the bad and how to improve&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+        <link>
+        /2019w14-makeover-monday</link>
+        <guid isPermaLink="true">/2019w14-makeover-monday</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Alteryx Certification: Designer Advanced Exam</title>
+        
+          <description>&lt;p&gt;Describing my experience with passing the Alteryx Designer Advanced Certification, together with some tips for interested.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+        <link>
+        /alteryx-advanced</link>
+        <guid isPermaLink="true">/alteryx-advanced</guid>
       </item>
       
     

@@ -8,7 +8,7 @@
     <link href="{{ page.url | absolute_url }}" rel="self" type="application/atom+xml" />
     <link href="{{ '/' | absolute_url }}" rel="alternate" type="text/html" {% if site.lang %}hreflang="{{ site.lang }}" {% endif %}/>
   {% endif %}
-  <updated>2020-07-09T19:50:23+00:00</updated>
+  <updated>2020-07-11T13:49:44+00:00</updated>
   <id>/tag/personal/feed.xml</id>
 
   
@@ -119,6 +119,51 @@
 
       
         <summary type="html">In one of my previous blog posts, I wrote some tips on project management. But I didn’t really share my personal experience. Let’s get personal.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Teaching Tableau</title>
+      {% if post.external.external_url %}
+        <link href="{{ post.external_url}}" rel="canonical" title="{{ post.title | xml_escape }}" />
+      {% else %}
+        <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
+      {% endif %}
+      <published>2019-04-19T00:00:00+00:00</published>
+      <updated>2019-04-19T00:00:00+00:00</updated>
+      <id>/teaching-tableau</id>
+      {% if post.external.external_url %}
+        <content type="html" xml:base="{{ post.external_url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% else %}
+        <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% endif %}
+      
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Hanna Nykowska</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="personal" />
+      
+        <category term="tableau" />
+      
+
+      
+        <summary type="html">My experience with teaching Tableau to others: public and another cohort in person, and public via webinar. The Good, the Bad and Lessons Learnt.</summary>
       
 
       
