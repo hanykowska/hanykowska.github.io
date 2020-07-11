@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: /assets/images/posts-images/seating-plan.png
+cover: /assets/images/posts-images/colour-palette-dummy-field.png
 navigation: True
 title: "Tiny Tableau Tip: how to use a colour palette with a dummy field"
 date: 2019-05-20 00:00:00
