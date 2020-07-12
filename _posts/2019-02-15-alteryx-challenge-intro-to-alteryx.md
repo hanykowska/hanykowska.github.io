@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: /assets/images/posts-images/alteryx.png
+cover: /assets/images/posts-images/alteryx_logo.png
 navigation: True
 title: "Alteryx Challenge: Intro to Alteryx"
 date: 2019-02-15 00:00:00

@@ -11,7 +11,31 @@
   </div>
   <div class="site-nav-right">
     <div class="social-links">
-      {% if site.linkedin %}
+      {% if site.alteryxcommunity %}
+      <a
+        class="social-link social-link-tw"
+        href="https://community.alteryx.com/t5/user/viewprofilepage/user-id/{{ site.alteryxcommunity }}"
+        target="_blank"
+        rel="noopener"
+        >{% include alteryx.html %}</a
+      >
+      {% endif %} {% if site.tableaupublic %}
+      <a
+        class="social-link social-link-tw"
+        href="https://public.tableau.com/profile/{{ site.tableaupublic }}"
+        target="_blank"
+        rel="noopener"
+        >{% include tableau.html %}</a
+      >
+      {% endif %} {% if site.github-user %}
+      <a
+        class="social-link social-link-tw"
+        href="https://github.com/{{ site.github-user }}"
+        target="_blank"
+        rel="noopener"
+        >{% include github.html %}</a
+      >
+      {% endif %}{% if site.linkedin %}
       <a
         class="social-link social-link-li"
         href="https://www.linkedin.com/in/{{ site.linkedin }}"

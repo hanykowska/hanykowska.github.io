@@ -3,7 +3,7 @@ layout: post
 cover: /assets/images/posts-images/seating-plan.png
 navigation: True
 title: "DS13 seating analysis"
-date: 2019-05-24 00:00:00
+date: 2019-05-24 01:00:00
 tags: [tableau]
 class: post-template
 subclass: "post"

@@ -3,7 +3,7 @@ layout: post
 cover: /assets/images/posts-images/diary.jpg
 navigation: True
 title: "Alteryx Challenge: Dates"
-date: 2019-02-15 00:00:00
+date: 2019-02-15 01:00:00
 tags: [alteryx]
 class: post-template
 subclass: "post"

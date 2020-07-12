@@ -3,7 +3,7 @@ layout: post
 cover: /assets/images/posts-images/alteryx_logo.png
 navigation: True
 title: "Week 1 done, 15 more to go"
-date: 2019-02-10 00:00:00
+date: 2019-02-10 01:00:00
 tags: [alteryx]
 class: post-template
 subclass: "post"

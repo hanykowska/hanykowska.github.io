@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: False
+cover: /assets/images/posts-images/alteryx_logo.png
 navigation: True
 title: "How to Start with Alteryx Designer"
 date: 2019-05-14 00:00:00

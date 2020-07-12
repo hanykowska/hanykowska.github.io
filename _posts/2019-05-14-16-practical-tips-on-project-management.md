@@ -4,7 +4,7 @@ cover: /assets/images/posts-images/practical-project-management.gif
 navigation: True
 title: "16 Practical Tips on Project Management"
 date: 2019-05-14 00:00:00
-tags: [alteryx]
+tags: [personal]
 class: post-template
 subclass: "post"
 author: hanykowska

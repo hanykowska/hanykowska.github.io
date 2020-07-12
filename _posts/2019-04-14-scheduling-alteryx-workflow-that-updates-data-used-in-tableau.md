@@ -1,9 +1,9 @@
 ---
 layout: post
-cover: False
+cover: /assets/images/posts-images/alteryx-tableau.png
 navigation: True
 title: "Scheduling Alteryx workflow that updates data used in Tableau"
-date: 2019-04-14 00:00:00
+date: 2019-04-14 01:00:00
 tags: [tableau, alteryx]
 class: post-template
 subclass: "post"

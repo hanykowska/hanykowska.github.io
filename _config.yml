@@ -10,7 +10,7 @@ baseurl:
 
 # Website info
 title: hanykowska
-description: Breaking people since 1994
+description: Data analyis, data visualisation, personal development
 cover: /assets/images/blog-cover.jpg
 logo: /assets/images/blog-icon.png
 logo_dark: /assets/images/favicon.png
@@ -24,6 +24,9 @@ subscribers: False # you need to connect an external service for this to work,
 # by editing `_includes/subscribe-form.html`
 twitter: hanykowska # replace by your username
 linkedin: hannanykowska # replace by your username
+tableaupublic: hanna.nykowska#!
+alteryxcommunity: "72521"
+github-user: hanykowska
 
 # Disqus
 disqus: False
