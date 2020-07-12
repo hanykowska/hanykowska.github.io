@@ -8,7 +8,7 @@
     <link href="{{ page.url | absolute_url }}" rel="self" type="application/atom+xml" />
     <link href="{{ '/' | absolute_url }}" rel="alternate" type="text/html" {% if site.lang %}hreflang="{{ site.lang }}" {% endif %}/>
   {% endif %}
-  <updated>2020-07-11T18:49:18+00:00</updated>
+  <updated>2020-07-12T17:31:48+00:00</updated>
   <id>/tag/personal/feed.xml</id>
 
   
@@ -20,7 +20,7 @@
   
 
   
-    <subtitle>Breaking people since 1994</subtitle>
+    <subtitle>Data analyis, data visualisation, personal development</subtitle>
   
 
   
@@ -119,6 +119,49 @@
 
       
         <summary type="html">In one of my previous blog posts, I wrote some tips on project management. But I didn’t really share my personal experience. Let’s get personal.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">16 Practical Tips on Project Management</title>
+      {% if post.external.external_url %}
+        <link href="{{ post.external_url}}" rel="canonical" title="{{ post.title | xml_escape }}" />
+      {% else %}
+        <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
+      {% endif %}
+      <published>2019-05-14T00:00:00+00:00</published>
+      <updated>2019-05-14T00:00:00+00:00</updated>
+      <id>/16-practical-tips-on-project-management</id>
+      {% if post.external.external_url %}
+        <content type="html" xml:base="{{ post.external_url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% else %}
+        <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% endif %}
+      
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Hanna Nykowska</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="personal" />
+      
+
+      
+        <summary type="html">The practical lessons I’ve learnt during my time as project manager.</summary>
       
 
       

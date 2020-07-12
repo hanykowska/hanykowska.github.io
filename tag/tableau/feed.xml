@@ -8,7 +8,7 @@
     <link href="{{ page.url | absolute_url }}" rel="self" type="application/atom+xml" />
     <link href="{{ '/' | absolute_url }}" rel="alternate" type="text/html" {% if site.lang %}hreflang="{{ site.lang }}" {% endif %}/>
   {% endif %}
-  <updated>2020-07-11T18:49:18+00:00</updated>
+  <updated>2020-07-12T17:31:48+00:00</updated>
   <id>/tag/tableau/feed.xml</id>
 
   
@@ -20,7 +20,7 @@
   
 
   
-    <subtitle>Breaking people since 1994</subtitle>
+    <subtitle>Data analyis, data visualisation, personal development</subtitle>
   
 
   
@@ -169,6 +169,49 @@
     </entry>
   
     <entry>
+      <title type="html">DS13 seating analysis</title>
+      {% if post.external.external_url %}
+        <link href="{{ post.external_url}}" rel="canonical" title="{{ post.title | xml_escape }}" />
+      {% else %}
+        <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
+      {% endif %}
+      <published>2019-05-24T01:00:00+00:00</published>
+      <updated>2019-05-24T01:00:00+00:00</updated>
+      <id>/ds13-seating-analysis</id>
+      {% if post.external.external_url %}
+        <content type="html" xml:base="{{ post.external_url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% else %}
+        <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% endif %}
+      
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Hanna Nykowska</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="tableau" />
+      
+
+      
+        <summary type="html">As we have finished our final presentations, there is one thing that’s left. The seating plan.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
       <title type="html">Tableau (Server) Tip: Intro to User Filters</title>
       {% if post.external.external_url %}
         <link href="{{ post.external_url}}" rel="canonical" title="{{ post.title | xml_escape }}" />
@@ -205,49 +248,6 @@
 
       
         <summary type="html">What are user filters and how can you start using them.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">DS13 seating analysis</title>
-      {% if post.external.external_url %}
-        <link href="{{ post.external_url}}" rel="canonical" title="{{ post.title | xml_escape }}" />
-      {% else %}
-        <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
-      {% endif %}
-      <published>2019-05-24T00:00:00+00:00</published>
-      <updated>2019-05-24T00:00:00+00:00</updated>
-      <id>/ds13-seating-analysis</id>
-      {% if post.external.external_url %}
-        <content type="html" xml:base="{{ post.external_url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
-      {% else %}
-        <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
-      {% endif %}
-      
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Hanna Nykowska</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="tableau" />
-      
-
-      
-        <summary type="html">As we have finished our final presentations, there is one thing that’s left. The seating plan.</summary>
       
 
       

@@ -8,7 +8,7 @@
     <link href="{{ page.url | absolute_url }}" rel="self" type="application/atom+xml" />
     <link href="{{ '/' | absolute_url }}" rel="alternate" type="text/html" {% if site.lang %}hreflang="{{ site.lang }}" {% endif %}/>
   {% endif %}
-  <updated>2020-07-11T18:49:18+00:00</updated>
+  <updated>2020-07-12T17:31:48+00:00</updated>
   <id>/tag/alteryx/feed.xml</id>
 
   
@@ -20,7 +20,7 @@
   
 
   
-    <subtitle>Breaking people since 1994</subtitle>
+    <subtitle>Data analyis, data visualisation, personal development</subtitle>
   
 
   
@@ -169,49 +169,6 @@
     </entry>
   
     <entry>
-      <title type="html">16 Practical Tips on Project Management</title>
-      {% if post.external.external_url %}
-        <link href="{{ post.external_url}}" rel="canonical" title="{{ post.title | xml_escape }}" />
-      {% else %}
-        <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
-      {% endif %}
-      <published>2019-05-14T00:00:00+00:00</published>
-      <updated>2019-05-14T00:00:00+00:00</updated>
-      <id>/16-practical-tips-on-project-management</id>
-      {% if post.external.external_url %}
-        <content type="html" xml:base="{{ post.external_url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
-      {% else %}
-        <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
-      {% endif %}
-      
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Hanna Nykowska</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="alteryx" />
-      
-
-      
-        <summary type="html">The practical lessons I’ve learnt during my time as project manager.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
       <title type="html">Custom shapes in Tableau (hand-drawn and downloaded with Alteryx)</title>
       {% if post.external.external_url %}
         <link href="{{ post.external_url}}" rel="canonical" title="{{ post.title | xml_escape }}" />
@@ -257,6 +214,51 @@
     </entry>
   
     <entry>
+      <title type="html">Scheduling Alteryx workflow that updates data used in Tableau</title>
+      {% if post.external.external_url %}
+        <link href="{{ post.external_url}}" rel="canonical" title="{{ post.title | xml_escape }}" />
+      {% else %}
+        <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
+      {% endif %}
+      <published>2019-04-14T01:00:00+00:00</published>
+      <updated>2019-04-14T01:00:00+00:00</updated>
+      <id>/scheduling-alteryx-workflow-that-updates-data-used-in-tableau</id>
+      {% if post.external.external_url %}
+        <content type="html" xml:base="{{ post.external_url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% else %}
+        <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% endif %}
+      
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Hanna Nykowska</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="tableau" />
+      
+        <category term="alteryx" />
+      
+
+      
+        <summary type="html">How to schedule Alteryx workflow and keep your Tableau dashboard up-to-date?</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
       <title type="html">Unzipping files in Alteryx</title>
       {% if post.external.external_url %}
         <link href="{{ post.external_url}}" rel="canonical" title="{{ post.title | xml_escape }}" />
@@ -293,51 +295,6 @@
 
       
         <summary type="html">How to automatically unzip files in Alteryx using download tool and dynamic input</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Scheduling Alteryx workflow that updates data used in Tableau</title>
-      {% if post.external.external_url %}
-        <link href="{{ post.external_url}}" rel="canonical" title="{{ post.title | xml_escape }}" />
-      {% else %}
-        <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
-      {% endif %}
-      <published>2019-04-14T00:00:00+00:00</published>
-      <updated>2019-04-14T00:00:00+00:00</updated>
-      <id>/scheduling-alteryx-workflow-that-updates-data-used-in-tableau</id>
-      {% if post.external.external_url %}
-        <content type="html" xml:base="{{ post.external_url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
-      {% else %}
-        <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
-      {% endif %}
-      
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Hanna Nykowska</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="tableau" />
-      
-        <category term="alteryx" />
-      
-
-      
-        <summary type="html">How to schedule Alteryx workflow and keep your Tableau dashboard up-to-date?</summary>
       
 
       
@@ -467,6 +424,49 @@
 
       
         <summary type="html">Alteryx Challenge update: I’m describing the macros-related weekly challenges.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Alteryx Challenge: Data Cleansing</title>
+      {% if post.external.external_url %}
+        <link href="{{ post.external_url}}" rel="canonical" title="{{ post.title | xml_escape }}" />
+      {% else %}
+        <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
+      {% endif %}
+      <published>2019-02-26T00:00:00+00:00</published>
+      <updated>2019-02-26T00:00:00+00:00</updated>
+      <id>/alteryx-challenge-cleansing</id>
+      {% if post.external.external_url %}
+        <content type="html" xml:base="{{ post.external_url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% else %}
+        <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% endif %}
+      
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Hanna Nykowska</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="alteryx" />
+      
+
+      
+        <summary type="html">Tips for Data Cleansing challenges and an update on Alteryx Challenge (finishing all Weekly Challenges by the end of DS training)</summary>
       
 
       

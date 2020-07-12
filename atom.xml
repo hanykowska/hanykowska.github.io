@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> - Articles</title>
-    <description>Breaking people since 1994</description>
+    <description>Data analyis, data visualisation, personal development</description>
     <link>
     </link>
     
@@ -83,6 +83,21 @@
     
       
       <item>
+        <title>DS13 seating analysis</title>
+        
+          <description>&lt;p&gt;As we have finished our final presentations, there is one thing that’s left. The seating plan.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 24 May 2019 01:00:00 +0000</pubDate>
+        <link>
+        /ds13-seating-analysis</link>
+        <guid isPermaLink="true">/ds13-seating-analysis</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Tableau (Server) Tip: Intro to User Filters</title>
         
           <description>&lt;p&gt;What are user filters and how can you start using them.&lt;/p&gt;
@@ -93,21 +108,6 @@
         <link>
         /tableau-server-tip-intro-to-user-filters</link>
         <guid isPermaLink="true">/tableau-server-tip-intro-to-user-filters</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>DS13 seating analysis</title>
-        
-          <description>&lt;p&gt;As we have finished our final presentations, there is one thing that’s left. The seating plan.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
-        <link>
-        /ds13-seating-analysis</link>
-        <guid isPermaLink="true">/ds13-seating-analysis</guid>
       </item>
       
     
@@ -278,6 +278,21 @@
     
       
       <item>
+        <title>Scheduling Alteryx workflow that updates data used in Tableau</title>
+        
+          <description>&lt;p&gt;How to schedule Alteryx workflow and keep your Tableau dashboard up-to-date?&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 14 Apr 2019 01:00:00 +0000</pubDate>
+        <link>
+        /scheduling-alteryx-workflow-that-updates-data-used-in-tableau</link>
+        <guid isPermaLink="true">/scheduling-alteryx-workflow-that-updates-data-used-in-tableau</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Unzipping files in Alteryx</title>
         
           <description>&lt;p&gt;How to automatically unzip files in Alteryx using download tool and dynamic input&lt;/p&gt;
@@ -288,21 +303,6 @@
         <link>
         /unzipping-files-in-alteryx</link>
         <guid isPermaLink="true">/unzipping-files-in-alteryx</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Scheduling Alteryx workflow that updates data used in Tableau</title>
-        
-          <description>&lt;p&gt;How to schedule Alteryx workflow and keep your Tableau dashboard up-to-date?&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
-        <link>
-        /scheduling-alteryx-workflow-that-updates-data-used-in-tableau</link>
-        <guid isPermaLink="true">/scheduling-alteryx-workflow-that-updates-data-used-in-tableau</guid>
       </item>
       
     
@@ -466,8 +466,8 @@
         
         <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
         <link>
-        /tableau-tip-dunamic-date</link>
-        <guid isPermaLink="true">/tableau-tip-dunamic-date</guid>
+        /tableau-tip-dynamic-date</link>
+        <guid isPermaLink="true">/tableau-tip-dynamic-date</guid>
       </item>
       
     
@@ -539,7 +539,7 @@
 
 </description>
         
-        <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 19 Feb 2019 01:00:00 +0000</pubDate>
         <link>
         /tableau-calendar-pt2</link>
         <guid isPermaLink="true">/tableau-calendar-pt2</guid>
@@ -578,6 +578,21 @@
     
       
       <item>
+        <title>Alteryx Challenge: Dates</title>
+        
+          <description>&lt;p&gt;Second in the Alteryx Challenge series. Tackling my experience with dates.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 15 Feb 2019 01:00:00 +0000</pubDate>
+        <link>
+        /alteryx-challenge-dates</link>
+        <guid isPermaLink="true">/alteryx-challenge-dates</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Alteryx Challenge: Intro to Alteryx</title>
         
           <description>&lt;p&gt;First post in the Alteryx Challenge series, where I describe the tools I’ve used for Weekly Challenges and some tricks I’ve learnt.&lt;/p&gt;
@@ -593,16 +608,16 @@
     
       
       <item>
-        <title>Alteryx Challenge: Dates</title>
+        <title>Week 1 done, 15 more to go</title>
         
-          <description>&lt;p&gt;Second in the Alteryx Challenge series. Tackling my experience with dates.&lt;/p&gt;
+          <description>&lt;p&gt;Intro to Alteryx Weekly Challenges and a challenge I created for myself.&lt;/p&gt;
 
 </description>
         
-        <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 10 Feb 2019 01:00:00 +0000</pubDate>
         <link>
-        /alteryx-challenge-dates</link>
-        <guid isPermaLink="true">/alteryx-challenge-dates</guid>
+        /alteryx-challenge</link>
+        <guid isPermaLink="true">/alteryx-challenge</guid>
       </item>
       
     
@@ -618,21 +633,6 @@
         <link>
         /overambition</link>
         <guid isPermaLink="true">/overambition</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Week 1 done, 15 more to go</title>
-        
-          <description>&lt;p&gt;Intro to Alteryx Weekly Challenges and a challenge I created for myself.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
-        <link>
-        /alteryx-challenge</link>
-        <guid isPermaLink="true">/alteryx-challenge</guid>
       </item>
       
     
