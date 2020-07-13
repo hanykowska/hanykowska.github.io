@@ -10,7 +10,7 @@ baseurl:
 
 # Website info
 title: hanykowska
-description: Data analyis, data visualisation, personal development
+description: "Data analyis, data visualisation, personal development, and more by Hanna Nykowska"
 cover: /assets/images/blog-cover.jpg
 logo: /assets/images/blog-icon.png
 logo_dark: /assets/images/favicon.png
