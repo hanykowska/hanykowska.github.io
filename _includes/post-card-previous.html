@@ -4,7 +4,7 @@
   class="post-card {{ page.previous.class }}{% unless page.previous.cover %} no-image{% endunless %}"
 >
   {% if page.previous.cover %}{% if page.previous.external_url %}
-  <a class="post-card-image-link" href="{{ page.previous.external_url }}"
+  <a class="post-card-image-link" href="{{ page.previous.external_url }}" target="_blank"
     >
   {% else %}
 
@@ -22,7 +22,7 @@
   {% endif %}
   <div class="post-card-content">
     {% if page.previous.external_url %}
-    <a class="post-card-content-link" href="{{ page.previous.external_url }}"
+    <a class="post-card-content-link" href="{{ page.previous.external_url }}" target="_blank"
       >
     {% else %}
     <a

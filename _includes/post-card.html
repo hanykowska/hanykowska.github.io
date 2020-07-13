@@ -4,7 +4,7 @@ in paginator.posts %}
   class="post-card {{ page.class }}{% unless post.cover %} no-image{% endunless %}"
 >
   {% if post.cover %} {% if post.external_url %}
-  <a class="post-card-image-link" href="{{ post.external_url }}"
+  <a class="post-card-image-link" href="{{ post.external_url }}" target="_blank"
     >
   {% else %}
 
@@ -21,7 +21,7 @@ in paginator.posts %}
   {% endif %}
   <div class="post-card-content">
     {% if post.external_url %}
-    <a class="post-card-content-link" href="{{ post.external_url }}"
+    <a class="post-card-content-link" href="{{ post.external_url }}" target="_blank"
       >
     {% else %}
     <a
