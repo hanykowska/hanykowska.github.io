@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: /assets/images/posts-images/zipper.jpg
+cover: /assets/images/posts-images/zipper.webp
 navigation: True
 title: "Unzipping files in Alteryx"
 date: 2019-04-14 00:00:00

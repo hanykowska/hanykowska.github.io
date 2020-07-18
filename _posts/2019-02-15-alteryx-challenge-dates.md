@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: /assets/images/posts-images/diary.jpg
+cover: /assets/images/posts-images/diary.webp
 navigation: True
 title: "Alteryx Challenge: Dates"
 date: 2019-02-15 01:00:00

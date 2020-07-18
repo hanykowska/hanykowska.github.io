@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: /assets/images/posts-images/peaks.jpg
+cover: /assets/images/posts-images/peaks.webp
 navigation: True
 title: "The peaks of the Data School"
 date: 2019-05-23 00:00:00

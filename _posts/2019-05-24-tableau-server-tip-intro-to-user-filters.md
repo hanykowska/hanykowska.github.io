@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: /assets/images/posts-images/filter.jpg
+cover: /assets/images/posts-images/filter.webp
 navigation: True
 title: "Tableau (Server) Tip: Intro to User Filters"
 date: 2019-05-24 00:00:00

@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: /assets/images/posts-images/shatter.jpg
+cover: /assets/images/posts-images/shatter.webp
 navigation: True
 title: "Overambition, fear of failure and impostor syndrome: welcome to my brain"
 date: 2019-02-10 00:00:00

@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: /assets/images/posts-images/cogs.jpg
+cover: /assets/images/posts-images/cogs.webp
 navigation: True
 title: "Alteryx Challenge: Macros"
 date: 2019-03-03 00:00:00
