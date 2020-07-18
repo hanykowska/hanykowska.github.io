@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: /assets/images/posts-images/practical-project-management.gif
+cover: /assets/images/posts-images/practical-project-management.mp4
 navigation: True
 title: "16 Practical Tips on Project Management"
 date: 2019-05-14 00:00:00
