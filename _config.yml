@@ -34,7 +34,7 @@ disqus: False
 disqus_shortname: hanykowska # replace with your disqus username
 
 # Google Analytics
-google_analytics: aaaa # replace with your GA tracking identifier
+google_analytics: UA-172918813-1 # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
