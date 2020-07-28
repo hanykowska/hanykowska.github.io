@@ -37,7 +37,13 @@ assign excerpt = page.content | strip_html | truncatewords: 50, "" %} {% endif
 />
 <meta
   property="og:image"
-  content="{{ site.url }}{{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% else %}{{ site.cover }}{% endif %}"
+  content="{{ site.url }}{{ site.baseurl }}
+  {% if page.thumbnail %}{{ page.thumbnail }}{% else %}{% if page.cover %}{{ page.cover }}{% else %}{{ site.cover }}{% endif %}{% endif %}"
+/>
+<meta
+  name="thumbnail"
+  content="{{ site.url }}{{ site.baseurl }}
+  {% if page.thumbnail %}{{ page.thumbnail }}{% else %}{{ site.thumbnail }}{% endif %}"
 />
 <meta
   property="article:publisher"

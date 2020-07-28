@@ -15,6 +15,7 @@ cover: /assets/images/blog-cover.jpg
 logo: /assets/images/blog-icon.png
 logo_dark: /assets/images/favicon.png
 favicon: /assets/images/favicon.png
+thumbnail: /assets/images/hanykowska_genesis_small.gif
 CNAME: www.hanykowska.com #add cname for website to be created
 
 # Social info
