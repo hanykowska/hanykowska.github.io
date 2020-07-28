@@ -100,7 +100,13 @@
 />
 <meta
   property="og:image"
-  content="/assets/images/blog-cover.jpg"
+  content="
+  /assets/images/hanykowska_genesis_small.gif"
+/>
+<meta
+  name="thumbnail"
+  content="
+  /assets/images/hanykowska_genesis_small.gif"
 />
 <meta
   property="article:publisher"
@@ -178,17 +184,26 @@
 into the {body} of the default.hbs template -->
 
 <!-- The big featured header, it uses blog cover image as a BG if available -->
-<header class="site-header outer " style="background-image:  url(/assets/images/blog-cover.jpg) ">
-    <div class="inner">
-        <div class="site-header-content">
-            <h1 class="site-title">
-                
-                    <img class="site-logo" src="/assets/images/blog-icon.png" alt="hanykowska"/>
-                
-            </h1>
-            <h2 class="site-description">Data analyis, data visualisation, personal development, and more by Hanna Nykowska</h2>
-        </div>
-        <nav class="site-nav">
+<header
+  class="site-header outer "
+  style="background-image:  url(/assets/images/blog-cover.jpg) "
+>
+  <div class="inner">
+    <div class="site-header-content">
+      <h1 class="site-title">
+        
+        <img
+          class="site-logo"
+          src="/assets/images/blog-icon.png"
+          alt="hanykowska"
+        />
+        
+      </h1>
+      <h2 class="site-description">
+        Data analyis, data visualisation, personal development, and more by Hanna Nykowska
+      </h2>
+    </div>
+    <nav class="site-nav">
   <div class="site-nav-left">
       <ul class="nav" role="menu">
   <li class="nav-home" role="menuitem">
@@ -379,16 +394,15 @@ into the {body} of the default.hbs template -->
   </div>
 </nav>
 
-    </div>
+  </div>
 </header>
 
 <!-- The main content area -->
 <main id="site-main" class="site-main outer" role="main">
-    <div class="inner">
-
-        <div class="post-feed">
-            <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
-             
+  <div class="inner">
+    <div class="post-feed">
+      <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
+       
 <article
   class="post-card home-template"
 >
@@ -1456,9 +1470,8 @@ into the {body} of the default.hbs template -->
 </article>
 
 
-        </div>
-
     </div>
+  </div>
 </main>
 
 
