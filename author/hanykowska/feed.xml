@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
-  <generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator>
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
   {% if page.external.external_url %}
     <link href="{{ page.external_url}}" rel="canonical" />
   {% else %}
     <link href="{{ page.url | absolute_url }}" rel="self" type="application/atom+xml" />
     <link href="{{ '/' | absolute_url }}" rel="alternate" type="text/html" {% if site.lang %}hreflang="{{ site.lang }}" {% endif %}/>
   {% endif %}
-  <updated>2020-07-28T13:31:01+00:00</updated>
+  <updated>2020-08-10T19:01:04+00:00</updated>
   <id>/author/hanykowska/feed.xml</id>
 
   
@@ -38,6 +38,49 @@
   
   
 
+  
+    <entry>
+      <title type="html">Python Tool in Alteryx: Deduplicating Images</title>
+      {% if post.external.external_url %}
+        <link href="{{ post.external_url}}" rel="canonical" title="{{ post.title | xml_escape }}" />
+      {% else %}
+        <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
+      {% endif %}
+      <published>2020-08-10T00:00:00+00:00</published>
+      <updated>2020-08-10T00:00:00+00:00</updated>
+      <id>/alteryx-python-deduplicating-images</id>
+      {% if post.external.external_url %}
+        <content type="html" xml:base="{{ post.external_url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% else %}
+        <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% endif %}
+      
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Hanna Nykowska</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="alteryx" />
+      
+
+      
+        <summary type="html">New to python tool in alteryx or python in general? Here’s a step by step description of how I built an app that identifies duplicate images and moves them to a new location.</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Tableau Tip: The INDEX Trick</title>
@@ -420,49 +463,6 @@
 
       
         <summary type="html">Can you use the saved colour palettes without picking the screen colour or copying the hex codes? Keep on reading.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Tableau LODs: include and exclude</title>
-      {% if post.external.external_url %}
-        <link href="{{ post.external_url}}" rel="canonical" title="{{ post.title | xml_escape }}" />
-      {% else %}
-        <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
-      {% endif %}
-      <published>2019-05-19T00:00:00+00:00</published>
-      <updated>2019-05-19T00:00:00+00:00</updated>
-      <id>/tableau-lods-include-exclude</id>
-      {% if post.external.external_url %}
-        <content type="html" xml:base="{{ post.external_url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
-      {% else %}
-        <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
-      {% endif %}
-      
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Hanna Nykowska</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="tableau" />
-      
-
-      
-        <summary type="html">Continuing on my post on FIXED LODs, I wanted to shed some light on INCLUDE and EXCLUDE Level of Detail expressions.</summary>
       
 
       

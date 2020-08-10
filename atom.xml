@@ -8,6 +8,21 @@
     
       
       <item>
+        <title>Python Tool in Alteryx: Deduplicating Images</title>
+        
+          <description>&lt;p&gt;New to python tool in alteryx or python in general? Here’s a step by step description of how I built an app that identifies duplicate images and moves them to a new location.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+        <link>
+        /alteryx-python-deduplicating-images</link>
+        <guid isPermaLink="true">/alteryx-python-deduplicating-images</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Tableau Tip: The INDEX Trick</title>
         
           <description>&lt;p&gt;I wanted to share something that I have found very useful in the past year. What I have in mind, is something I call ‘the Index trick’.&lt;/p&gt;
