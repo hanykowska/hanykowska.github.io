@@ -10,3 +10,7 @@ personal:
   name: personal
   description: "Let's get personal"
   cover: False
+videos:
+  name: videos
+  description: False
+  cover: False
