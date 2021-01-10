@@ -8,6 +8,36 @@
     
       
       <item>
+        <title>How To in Alteryx: Multi-Row Formula Tool for Rank</title>
+        
+          <description>&lt;p&gt;Not sure how to leverage Multi-Row Formula Tool? In this short video, I’ll show you how to use it to rank data.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+        <link>
+        /video-howto-alteryx-multirowformula-rank</link>
+        <guid isPermaLink="true">/video-howto-alteryx-multirowformula-rank</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>How To in Alteryx: Multi-Row Formula Tool for Filling Missing Data</title>
+        
+          <description>&lt;p&gt;New to Multi-Row Formula Tool? Or maybe not new but still a bit confused? Learn how to use it to fill in missing data in 5 minutes!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+        <link>
+        /video-howto-alteryx-multirowformula-filling-missing-data-copy</link>
+        <guid isPermaLink="true">/video-howto-alteryx-multirowformula-filling-missing-data-copy</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Python Tool in Alteryx: Deduplicating Images</title>
         
           <description>&lt;p&gt;New to python tool in alteryx or python in general? Here’s a step by step description of how I built an app that identifies duplicate images and moves them to a new location.&lt;/p&gt;

@@ -8,7 +8,7 @@
     <link href="{{ page.url | absolute_url }}" rel="self" type="application/atom+xml" />
     <link href="{{ '/' | absolute_url }}" rel="alternate" type="text/html" {% if site.lang %}hreflang="{{ site.lang }}" {% endif %}/>
   {% endif %}
-  <updated>2020-11-30T19:14:26+00:00</updated>
+  <updated>2021-01-10T10:05:18+00:00</updated>
   <id>/author/hanykowska/feed.xml</id>
 
   
@@ -38,6 +38,96 @@
   
   
 
+  
+    <entry>
+      <title type="html">How To in Alteryx: Multi-Row Formula Tool for Rank</title>
+      {% if post.external.external_url %}
+        <link href="{{ post.external_url}}" rel="canonical" title="{{ post.title | xml_escape }}" />
+      {% else %}
+        <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
+      {% endif %}
+      <published>2020-12-30T00:00:00+00:00</published>
+      <updated>2020-12-30T00:00:00+00:00</updated>
+      <id>/video-howto-alteryx-multirowformula-rank</id>
+      {% if post.external.external_url %}
+        <content type="html" xml:base="{{ post.external_url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% else %}
+        <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% endif %}
+      
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Hanna Nykowska</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="alteryx" />
+      
+        <category term="videos" />
+      
+
+      
+        <summary type="html">Not sure how to leverage Multi-Row Formula Tool? In this short video, I’ll show you how to use it to rank data.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">How To in Alteryx: Multi-Row Formula Tool for Filling Missing Data</title>
+      {% if post.external.external_url %}
+        <link href="{{ post.external_url}}" rel="canonical" title="{{ post.title | xml_escape }}" />
+      {% else %}
+        <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
+      {% endif %}
+      <published>2020-12-02T00:00:00+00:00</published>
+      <updated>2020-12-02T00:00:00+00:00</updated>
+      <id>/video-howto-alteryx-multirowformula-filling-missing-data%20copy</id>
+      {% if post.external.external_url %}
+        <content type="html" xml:base="{{ post.external_url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% else %}
+        <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% endif %}
+      
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Hanna Nykowska</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="alteryx" />
+      
+        <category term="videos" />
+      
+
+      
+        <summary type="html">New to Multi-Row Formula Tool? Or maybe not new but still a bit confused? Learn how to use it to fill in missing data in 5 minutes!</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Python Tool in Alteryx: Deduplicating Images</title>
@@ -377,92 +467,6 @@
 
       
         <summary type="html">What are user filters and how can you start using them.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">The peaks of the Data School</title>
-      {% if post.external.external_url %}
-        <link href="{{ post.external_url}}" rel="canonical" title="{{ post.title | xml_escape }}" />
-      {% else %}
-        <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
-      {% endif %}
-      <published>2019-05-23T00:00:00+00:00</published>
-      <updated>2019-05-23T00:00:00+00:00</updated>
-      <id>/the-peaks-of-the-data-school</id>
-      {% if post.external.external_url %}
-        <content type="html" xml:base="{{ post.external_url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
-      {% else %}
-        <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
-      {% endif %}
-      
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Hanna Nykowska</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="personal" />
-      
-
-      
-        <summary type="html">It’s the very last week of training for DS13. It was a crazy ride but fun at that, so here are my top moments of being at the Data School so far.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Tiny Tableau Tip: how to use a colour palette with a dummy field</title>
-      {% if post.external.external_url %}
-        <link href="{{ post.external_url}}" rel="canonical" title="{{ post.title | xml_escape }}" />
-      {% else %}
-        <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
-      {% endif %}
-      <published>2019-05-20T00:00:00+00:00</published>
-      <updated>2019-05-20T00:00:00+00:00</updated>
-      <id>/tableau-tip-how-to-use-colour-palette-with-dummy-field</id>
-      {% if post.external.external_url %}
-        <content type="html" xml:base="{{ post.external_url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
-      {% else %}
-        <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
-      {% endif %}
-      
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Hanna Nykowska</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="tableau" />
-      
-
-      
-        <summary type="html">Can you use the saved colour palettes without picking the screen colour or copying the hex codes? Keep on reading.</summary>
       
 
       
