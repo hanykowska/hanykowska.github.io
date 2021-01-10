@@ -13,3 +13,8 @@ yt-til:
   name: The Information Lab on YouTube
   url: https://www.youtube.com/c/TheInformationLabCoUK/featured
   picture: /assets/images/site-images/icons/external_link.png
+yt:
+  shortname: yt
+  name: YouTube
+  url: https://www.youtube.com/
+  picture: /assets/images/site-images/icons/external_link.png
