@@ -2,17 +2,17 @@ til:
   shortname: til
   name: The Information Lab Blog
   url: https://www.theinformationlab.co.uk/category/blog/
-  picture: /assets/images/site-images/icons/external_link.png
+  picture: /assets/images/site-images/icons/til-logo.png
 ds:
   shortname: ds
   name: The Data School Blog
   url: https://www.thedataschool.co.uk/blog/
-  picture: /assets/images/site-images/icons/external_link.png
+  picture: /assets/images/site-images/icons/ds-logo.png
 yt-til:
   shortname: yt-til
-  name: The Information Lab on YouTube
+  name: The Information Lab YouTube
   url: https://www.youtube.com/c/TheInformationLabCoUK/featured
-  picture: /assets/images/site-images/icons/external_link.png
+  picture: /assets/images/site-images/icons/til-logo.png
 yt:
   shortname: yt
   name: YouTube

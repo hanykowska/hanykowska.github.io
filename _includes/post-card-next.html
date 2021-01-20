@@ -3,37 +3,37 @@
 <article
   class="post-card {{ page.next.class }}{% unless page.next.cover %} no-image{% endunless %}"
 >
-{% if page.previous.cover %}{% if page.previous.external_url %}
-<a class="post-card-image-link" href="{{ page.previous.external_url }}" target="_blank"
+{% if page.next.cover %}{% if page.next.open_external %}
+<a class="post-card-image-link" href="{{ page.next.external_url }}" target="_blank"
   >
 {% else %}
 
 <a
   class="post-card-image-link"
-  href="{{ site.baseurl }}{{ page.previous.url }}"
+  href="{{ site.baseurl }}{{ page.next.url }}"
 >
   {% endif %}
 
   <div
     class="post-card-image"
-    style="background-image: url({{ site.baseurl }}{{ page.previous.cover }})"
+    style="background-image: url({{ site.baseurl }}{{ page.next.cover }})"
   ></div>
 </a>
 {% endif %}
 <div class="post-card-content">
-  {% if page.previous.external_url %}
-  <a class="post-card-content-link" href="{{ page.previous.external_url }}" target="_blank"
+  {% if page.next.open_external %}
+  <a class="post-card-content-link" href="{{ page.next.external_url }}" target="_blank"
     >
   {% else %}
   <a
     class="post-card-content-link"
-    href="{{ site.baseurl }}{{ page.previous.url }}"
+    href="{{ site.baseurl }}{{ page.next.url }}"
   >
   {% endif %}
       <header class="post-card-header">
-        <!-- {% if page.previous.tags.size > 0 %}
-                                    {% for tag in page.previous.tags %}
-                                        {% if forloop.index == page.previous.tags.size %}
+        <!-- {% if page.next.tags.size > 0 %}
+                                    {% for tag in page.next.tags %}
+                                        {% if forloop.index == page.next.tags.size %}
                                             <span class="post-card-tags">{{ tag | capitalize }}</span>
                                         {% else %}
                                            <span class="post-card-tags">{{ tag | capitalize }}</span>
@@ -41,7 +41,7 @@
                                     {% endfor %}
                                 {% endif %} -->
 
-        <h2 class="post-card-title">{{ page.previous.title }}</h2>
+        <h2 class="post-card-title">{{ page.next.title }}</h2>
       </header>
       <section class="post-card-excerpt">
         {% if post.excerpt %}
