@@ -8,7 +8,7 @@
     <link href="{{ page.url | absolute_url }}" rel="self" type="application/atom+xml" />
     <link href="{{ '/' | absolute_url }}" rel="alternate" type="text/html" {% if site.lang %}hreflang="{{ site.lang }}" {% endif %}/>
   {% endif %}
-  <updated>2021-01-10T10:26:34+00:00</updated>
+  <updated>2021-01-20T20:43:57+00:00</updated>
   <id>/author/ghost/feed.xml</id>
 
   
@@ -20,7 +20,7 @@
   
 
   
-    <subtitle>Data analyis, data visualisation, personal development, and more by Hanna Nykowska</subtitle>
+    <subtitle>All things data and more by Hanna Nykowska</subtitle>
   
 
   

@@ -8,7 +8,7 @@
     <link href="{{ page.url | absolute_url }}" rel="self" type="application/atom+xml" />
     <link href="{{ '/' | absolute_url }}" rel="alternate" type="text/html" {% if site.lang %}hreflang="{{ site.lang }}" {% endif %}/>
   {% endif %}
-  <updated>2021-01-10T10:26:34+00:00</updated>
+  <updated>2021-01-20T20:43:57+00:00</updated>
   <id>/tag/videos/feed.xml</id>
 
   
@@ -20,7 +20,7 @@
   
 
   
-    <subtitle>Data analyis, data visualisation, personal development, and more by Hanna Nykowska</subtitle>
+    <subtitle>All things data and more by Hanna Nykowska</subtitle>
   
 
   
@@ -77,7 +77,7 @@
       
 
       
-        <summary type="html">Not sure how to leverage Multi-Row Formula Tool? In this short video, I’ll show you how to use it to rank data.</summary>
+        <summary type="html">Not sure how to leverage Multi-Row Formula Tool? In this short video, I’ll show you how to use it to rank data. First published on The Information Lab YouTube channel</summary>
       
 
       
@@ -122,7 +122,7 @@
       
 
       
-        <summary type="html">New to Multi-Row Formula Tool? Or maybe not new but still a bit confused? Learn how to use it to fill in missing data in 5 minutes!</summary>
+        <summary type="html">New to Multi-Row Formula Tool? Or maybe not new but still a bit confused? Learn how to use it to fill in missing data in 5 minutes! First published on The Information Lab YouTube channel</summary>
       
 
       
@@ -167,7 +167,7 @@
       
 
       
-        <summary type="html">Briefly explaining what the Index Trick is all about during London TUG Summer Sessions.</summary>
+        <summary type="html">Briefly explaining what the Index Trick is all about during London TUG Summer Sessions. First published on YouTube</summary>
       
 
       

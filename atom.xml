@@ -2,15 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> - Articles</title>
-    <description>Data analyis, data visualisation, personal development, and more by Hanna Nykowska</description>
+    <description>All things data and more by Hanna Nykowska</description>
     <link>
     </link>
+    
+      
+      <item>
+        <title>How to turn macros into custom Alteryx tools</title>
+        
+          <description>&lt;p&gt;If you like to build macros to make your life easier and want to take it to the next level, you’re in the right place!
+Learn how to turn macros into custom tools. in Alteryx exemplified by the Test 1:1 Join&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.theinformationlab.co.uk/2021/01/19/how-to-turn-macros-into-custom-alteryx-tools/&quot; target=&quot;\_blank&quot;&gt;First published on The Information Lab Blog.&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+        <link>
+        /howto-macros-to-custom-tools</link>
+        <guid isPermaLink="true">/howto-macros-to-custom-tools</guid>
+      </item>
+      
     
       
       <item>
         <title>How To in Alteryx: Multi-Row Formula Tool for Rank</title>
         
           <description>&lt;p&gt;Not sure how to leverage Multi-Row Formula Tool? In this short video, I’ll show you how to use it to rank data.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=iNC4l24fTEk&quot; target=&quot;\_blank&quot;&gt;First published on The Information Lab YouTube channel&lt;/a&gt;&lt;/p&gt;
 
 </description>
         
@@ -27,6 +47,8 @@
         
           <description>&lt;p&gt;New to Multi-Row Formula Tool? Or maybe not new but still a bit confused? Learn how to use it to fill in missing data in 5 minutes!&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=yU8UbZhzQNM&quot; target=&quot;\_blank&quot;&gt;First published on The Information Lab YouTube channel&lt;/a&gt;&lt;/p&gt;
+
 </description>
         
         <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
@@ -41,6 +63,8 @@
         <title>Python Tool in Alteryx: Deduplicating Images</title>
         
           <description>&lt;p&gt;New to python tool in alteryx or python in general? Here’s a step by step description of how I built an app that identifies duplicate images and moves them to a new location.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.theinformationlab.co.uk/2020/08/10/python-tool-in-alteryx-deduplicating-images/&quot; target=&quot;\_blank&quot;&gt;First published on The Information Lab Blog.&lt;/a&gt;&lt;/p&gt;
 
 </description>
         
@@ -57,6 +81,8 @@
         
           <description>&lt;p&gt;Briefly explaining what the Index Trick is all about during London TUG Summer Sessions.&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/UG87IqpaAzk?t=4349&quot; target=&quot;\_blank&quot;&gt;First published on YouTube&lt;/a&gt;&lt;/p&gt;
+
 </description>
         
         <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
@@ -71,6 +97,8 @@
         <title>Tableau Tip: The INDEX Trick</title>
         
           <description>&lt;p&gt;I wanted to share something that I have found very useful in the past year. What I have in mind, is something I call ‘the Index trick’.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.theinformationlab.co.uk/2019/12/31/tableau-tip-the-index-trick/&quot; target=&quot;\_blank&quot;&gt;First published on The Information Lab Blog.&lt;/a&gt;&lt;/p&gt;
 
 </description>
         
@@ -87,6 +115,8 @@
         
           <description>&lt;p&gt;Want to build a chord chart but don’t have access to fancy data preparation tools? I got you covererd!&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://www.theinformationlab.co.uk/2019/11/07/chord-chart-with-table-calcs-and-lods/&quot; target=&quot;\_blank&quot;&gt;First published on The Information Lab Blog.&lt;/a&gt;&lt;/p&gt;
+
 </description>
         
         <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
@@ -101,6 +131,8 @@
         <title>Connect to Spotify API with Alteryx</title>
         
           <description>&lt;p&gt;The authentication process for Spotify API is a bit tricky. I thought I’d make your life easier so that you could start using this API yourself!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.theinformationlab.co.uk/2019/08/07/connect-to-spotify-api-with-alteryx/&quot; target=&quot;\_blank&quot;&gt;First published on The Information Lab Blog.&lt;/a&gt;&lt;/p&gt;
 
 </description>
         
@@ -117,6 +149,8 @@
         
           <description>&lt;p&gt;Oh, so you want detailed data in form of highlight table that includes info button for each row? I got you covered!&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://www.theinformationlab.co.uk/2019/07/23/tableau-tip-highlight-table-with-info-icons/&quot; target=&quot;\_blank&quot;&gt;First published on The Information Lab Blog.&lt;/a&gt;&lt;/p&gt;
+
 </description>
         
         <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
@@ -131,6 +165,8 @@
         <title>How to: Automated Alteryx Reports</title>
         
           <description>&lt;p&gt;Say you have data that gets regularly updated and you need to send those updates to multiple people. Build automated reports with Alteryx!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.theinformationlab.co.uk/2019/07/02/how-to-automated-alteryx-reports/&quot; target=&quot;\_blank&quot;&gt;First published on The Information Lab Blog.&lt;/a&gt;&lt;/p&gt;
 
 </description>
         
@@ -147,6 +183,8 @@
         
           <description>&lt;p&gt;As we have finished our final presentations, there is one thing that’s left. The seating plan.&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/ds13-seating-analysis/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
+
 </description>
         
         <pubDate>Fri, 24 May 2019 01:00:00 +0000</pubDate>
@@ -161,6 +199,8 @@
         <title>Tableau (Server) Tip: Intro to User Filters</title>
         
           <description>&lt;p&gt;What are user filters and how can you start using them.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/tableau-server-tip-intro-to-user-filters/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
 
 </description>
         
@@ -177,6 +217,8 @@
         
           <description>&lt;p&gt;It’s the very last week of training for DS13. It was a crazy ride but fun at that, so here are my top moments of being at the Data School so far.&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/the-peaks-of-the-data-school/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
+
 </description>
         
         <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
@@ -191,6 +233,8 @@
         <title>Tiny Tableau Tip: how to use a colour palette with a dummy field</title>
         
           <description>&lt;p&gt;Can you use the saved colour palettes without picking the screen colour or copying the hex codes? Keep on reading.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/tiny-tableau-tip-how-to-use-a-colour-palette-with-a-dummy-field/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
 
 </description>
         
@@ -207,6 +251,8 @@
         
           <description>&lt;p&gt;In one of my previous blog posts, I wrote some tips on project management. But I didn’t really share my personal experience. Let’s get personal.&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/whats-it-like-being-a-project-manager-lets-get-personal/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
+
 </description>
         
         <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
@@ -221,6 +267,8 @@
         <title>Tableau LODs: include and exclude</title>
         
           <description>&lt;p&gt;Continuing on my post on FIXED LODs, I wanted to shed some light on INCLUDE and EXCLUDE Level of Detail expressions.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/tableau-lods-include-and-exclude/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
 
 </description>
         
@@ -237,6 +285,8 @@
         
           <description>&lt;p&gt;A few people have asked me how to start their journey with Alteryx and so I decided to write down what I know.&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/how-to-start-with-alteryx-designer/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
+
 </description>
         
         <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
@@ -251,6 +301,8 @@
         <title>16 Practical Tips on Project Management</title>
         
           <description>&lt;p&gt;The practical lessons I’ve learnt during my time as project manager.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/16-practical-tips-on-project-management/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
 
 </description>
         
@@ -267,6 +319,8 @@
         
           <description>&lt;p&gt;Dashboard week day 2! Looking at deaths among the avengers while building an infographic.&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/dashboard-week-day-2-annihilation-by-infographic/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
+
 </description>
         
         <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
@@ -281,6 +335,8 @@
         <title>Intro to Tableau LODs (fixed)</title>
         
           <description>&lt;p&gt;Trying to understand Level Of Detail (LOD) expressions in Tableau? You’re in the right place.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/intro-to-tableau-lods-fixed/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
 
 </description>
         
@@ -297,6 +353,8 @@
         
           <description>&lt;p&gt;How to get custom shapes in Tableau using hand-drawn images and those downloaded in bulk with Alteryx.&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/custom-shapes-in-tableau-hand-drawn-and-downloaded-with-alteryx/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
+
 </description>
         
         <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
@@ -311,6 +369,8 @@
         <title>Teaching Tableau</title>
         
           <description>&lt;p&gt;My experience with teaching Tableau to others: public and another cohort in person, and public via webinar. The Good, the Bad and Lessons Learnt.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/teaching-tableau/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
 
 </description>
         
@@ -327,6 +387,8 @@
         
           <description>&lt;p&gt;Looking at #makeovermonday 2019w16: word use in the ‘Info we Trust’ book by RJ Andrews&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/hannas-makeover-monday-2019w16-bars-bars-bars/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
+
 </description>
         
         <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
@@ -341,6 +403,8 @@
         <title>Scheduling Alteryx workflow that updates data used in Tableau</title>
         
           <description>&lt;p&gt;How to schedule Alteryx workflow and keep your Tableau dashboard up-to-date?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/scheduling-alteryx-workflow-that-updates-data-used-in-tableau/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
 
 </description>
         
@@ -357,6 +421,8 @@
         
           <description>&lt;p&gt;How to automatically unzip files in Alteryx using download tool and dynamic input&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/unzipping-files-in-alteryx/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
+
 </description>
         
         <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
@@ -371,6 +437,8 @@
         <title>Makeover Monday 2019w14: 2 metres of cotton buds</title>
         
           <description>&lt;p&gt;Looking at makeovermonday 2019w14: the good the bad and how to improve&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/hannas-makeover-monday-2019w14-2-metres-of-cotton-buds/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
 
 </description>
         
@@ -387,6 +455,8 @@
         
           <description>&lt;p&gt;Looking at makeovermonday 2019w13: the good the bad and how to improve&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/hannas-makover-monday-2019w13-what-do-millennials-spend-their-money-on/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
+
 </description>
         
         <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
@@ -401,6 +471,8 @@
         <title>Alteryx Certification: Designer Advanced Exam</title>
         
           <description>&lt;p&gt;Describing my experience with passing the Alteryx Designer Advanced Certification, together with some tips for interested.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/alteryx-certification-designer-advanced-exam/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
 
 </description>
         
@@ -417,6 +489,8 @@
         
           <description>&lt;p&gt;A tiny tableau tip on getting rid of the map background, very useful when you’re building a dashboard with a coloured background.&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/tiny-tableau-tip-how-to-get-rid-of-the-map-background/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
+
 </description>
         
         <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
@@ -431,6 +505,8 @@
         <title>MakeoverMonday 2019w12</title>
         
           <description>&lt;p&gt;My first blog on makeover monday; describing the good and the bad of original viz and how I tried to make it better&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/makeovermonday-2019w12/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
 
 </description>
         
@@ -447,6 +523,8 @@
         
           <description>&lt;p&gt;A description of viz for social good hackathon from the perspective of an attendee: what is it and why is it worth going to.&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/attending-vizforsocialgood-hackathon-what-is-it-and-why-is-it-worth-going-to/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
+
 </description>
         
         <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
@@ -461,6 +539,8 @@
         <title>Tableau Tip: Map Drill-Down</title>
         
           <description>&lt;p&gt;Tableau tip on creating a drill down map using a simple filter action.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/tableau-tip-map-drill-down/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
 
 </description>
         
@@ -477,6 +557,8 @@
         
           <description>&lt;p&gt;Short summary of Alteryx Designer Core Exam from my perspective and what helped me pass it.&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/alteryx-certification-designer-core-exam/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
+
 </description>
         
         <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
@@ -491,6 +573,8 @@
         <title>Tableau Tip: Tooltip Viz</title>
         
           <description>&lt;p&gt;Short tutorial on how to create a tooltip viz that is susceptible to dashboard actions&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/tableau-tip-tooltip-viz/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
 
 </description>
         
@@ -507,6 +591,8 @@
         
           <description>&lt;p&gt;Alteryx Challenge update: I’m describing the macros-related weekly challenges.&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/alteryx-challenge-macros/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
+
 </description>
         
         <pubDate>Sun, 03 Mar 2019 00:00:00 +0000</pubDate>
@@ -521,6 +607,8 @@
         <title>Tableau Tip: dynamic date level aggregation</title>
         
           <description>&lt;p&gt;Quick way of creating a dynamic date level aggregation using a parameter.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/tableau-tip-dynamic-date-level-aggregation/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
 
 </description>
         
@@ -537,6 +625,8 @@
         
           <description>&lt;p&gt;Summary of the week 2 Preppin’ Data challenge.&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/preppin-data-week-2-recap/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
+
 </description>
         
         <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
@@ -551,6 +641,8 @@
         <title>Alteryx Challenge: Data Cleansing</title>
         
           <description>&lt;p&gt;Tips for Data Cleansing challenges and an update on Alteryx Challenge (finishing all Weekly Challenges by the end of DS training)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/alteryx-challenge-data-cleansing/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
 
 </description>
         
@@ -567,6 +659,8 @@
         
           <description>&lt;p&gt;If you want to build a 12-month calendar in one view in Tableau, you’ve found the right place. (I even explain how to add month labels!)&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/tableau-tip-calendar-view-part-4/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
+
 </description>
         
         <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
@@ -581,6 +675,8 @@
         <title>Tableau Tip: Calendar View (Part 3)</title>
         
           <description>&lt;p&gt;3rd in the series, this blog post describes how to deal with missing data in dates. For a 12-month calendar tutorial, go to Part 4 (link in this post as well)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/tableau-tip-calendar-view-part-3/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
 
 </description>
         
@@ -597,6 +693,8 @@
         
           <description>&lt;p&gt;Part 2 of calendar magic AKA tutorial on creating a horizontal calendar view.&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/tableau-tip-calendar-view-part-2/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
+
 </description>
         
         <pubDate>Tue, 19 Feb 2019 01:00:00 +0000</pubDate>
@@ -611,6 +709,8 @@
         <title>Tableau Tip: Calendar View (Part 1)</title>
         
           <description>&lt;p&gt;A tutorial on creating a calendar view to visualise your date-related data.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/tableau-tip-calendar-view-part-1/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
 
 </description>
         
@@ -627,6 +727,8 @@
         
           <description>&lt;p&gt;Why and how would you copy and paste part of a dataset that is already loaded to Tableau? Keep reading.&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/tableau-tip-copy-and-paste-data-from-open-data-source/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
+
 </description>
         
         <pubDate>Sun, 17 Feb 2019 00:00:00 +0000</pubDate>
@@ -641,6 +743,8 @@
         <title>Alteryx Challenge: Dates</title>
         
           <description>&lt;p&gt;Second in the Alteryx Challenge series. Tackling my experience with dates.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/alteryx-challenge-dates/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
 
 </description>
         
@@ -657,6 +761,8 @@
         
           <description>&lt;p&gt;First post in the Alteryx Challenge series, where I describe the tools I’ve used for Weekly Challenges and some tricks I’ve learnt.&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/alteryx-challenge-intro-to-alteryx/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
+
 </description>
         
         <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
@@ -672,6 +778,8 @@
         
           <description>&lt;p&gt;Intro to Alteryx Weekly Challenges and a challenge I created for myself.&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/week-1-done-15-more-to-go/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
+
 </description>
         
         <pubDate>Sun, 10 Feb 2019 01:00:00 +0000</pubDate>
@@ -686,6 +794,8 @@
         <title>Overambition, fear of failure and impostor syndrome: welcome to my brain</title>
         
           <description>&lt;p&gt;Seemingly, listening to other people talk about their struggles and how they deal with or even overcome them is actually quite helpful. With that in mind, I thought I’d share some of my experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.thedataschool.co.uk/hanna-nykowska/overambition-fear-of-failure-and-impostor-syndrome-welcome-to-my-brain/&quot; target=&quot;\_blank&quot;&gt;First published on The Data School Blog.&lt;/a&gt;&lt;/p&gt;
 
 </description>
         

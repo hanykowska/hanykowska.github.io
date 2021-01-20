@@ -8,7 +8,7 @@
     <link href="{{ page.url | absolute_url }}" rel="self" type="application/atom+xml" />
     <link href="{{ '/' | absolute_url }}" rel="alternate" type="text/html" {% if site.lang %}hreflang="{{ site.lang }}" {% endif %}/>
   {% endif %}
-  <updated>2021-01-10T10:26:34+00:00</updated>
+  <updated>2021-01-20T20:43:57+00:00</updated>
   <id>/author/hanykowska/feed.xml</id>
 
   
@@ -20,7 +20,7 @@
   
 
   
-    <subtitle>Data analyis, data visualisation, personal development, and more by Hanna Nykowska</subtitle>
+    <subtitle>All things data and more by Hanna Nykowska</subtitle>
   
 
   
@@ -38,6 +38,49 @@
   
   
 
+  
+    <entry>
+      <title type="html">How to turn macros into custom Alteryx tools</title>
+      {% if post.external.external_url %}
+        <link href="{{ post.external_url}}" rel="canonical" title="{{ post.title | xml_escape }}" />
+      {% else %}
+        <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
+      {% endif %}
+      <published>2021-01-19T00:00:00+00:00</published>
+      <updated>2021-01-19T00:00:00+00:00</updated>
+      <id>/howto-macros-to-custom-tools</id>
+      {% if post.external.external_url %}
+        <content type="html" xml:base="{{ post.external_url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% else %}
+        <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+      {% endif %}
+      
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Hanna Nykowska</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="alteryx" />
+      
+
+      
+        <summary type="html">If you like to build macros to make your life easier and want to take it to the next level, you’re in the right place! Learn how to turn macros into custom tools. in Alteryx exemplified by the Test 1:1 Join First published on The Information Lab Blog.</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">How To in Alteryx: Multi-Row Formula Tool for Rank</title>
@@ -77,7 +120,7 @@
       
 
       
-        <summary type="html">Not sure how to leverage Multi-Row Formula Tool? In this short video, I’ll show you how to use it to rank data.</summary>
+        <summary type="html">Not sure how to leverage Multi-Row Formula Tool? In this short video, I’ll show you how to use it to rank data. First published on The Information Lab YouTube channel</summary>
       
 
       
@@ -122,7 +165,7 @@
       
 
       
-        <summary type="html">New to Multi-Row Formula Tool? Or maybe not new but still a bit confused? Learn how to use it to fill in missing data in 5 minutes!</summary>
+        <summary type="html">New to Multi-Row Formula Tool? Or maybe not new but still a bit confused? Learn how to use it to fill in missing data in 5 minutes! First published on The Information Lab YouTube channel</summary>
       
 
       
@@ -165,7 +208,7 @@
       
 
       
-        <summary type="html">New to python tool in alteryx or python in general? Here’s a step by step description of how I built an app that identifies duplicate images and moves them to a new location.</summary>
+        <summary type="html">New to python tool in alteryx or python in general? Here’s a step by step description of how I built an app that identifies duplicate images and moves them to a new location. First published on The Information Lab Blog.</summary>
       
 
       
@@ -210,7 +253,7 @@
       
 
       
-        <summary type="html">Briefly explaining what the Index Trick is all about during London TUG Summer Sessions.</summary>
+        <summary type="html">Briefly explaining what the Index Trick is all about during London TUG Summer Sessions. First published on YouTube</summary>
       
 
       
@@ -253,7 +296,7 @@
       
 
       
-        <summary type="html">I wanted to share something that I have found very useful in the past year. What I have in mind, is something I call ‘the Index trick’.</summary>
+        <summary type="html">I wanted to share something that I have found very useful in the past year. What I have in mind, is something I call ‘the Index trick’. First published on The Information Lab Blog.</summary>
       
 
       
@@ -296,7 +339,7 @@
       
 
       
-        <summary type="html">Want to build a chord chart but don’t have access to fancy data preparation tools? I got you covererd!</summary>
+        <summary type="html">Want to build a chord chart but don’t have access to fancy data preparation tools? I got you covererd! First published on The Information Lab Blog.</summary>
       
 
       
@@ -339,7 +382,7 @@
       
 
       
-        <summary type="html">The authentication process for Spotify API is a bit tricky. I thought I’d make your life easier so that you could start using this API yourself!</summary>
+        <summary type="html">The authentication process for Spotify API is a bit tricky. I thought I’d make your life easier so that you could start using this API yourself! First published on The Information Lab Blog.</summary>
       
 
       
@@ -382,7 +425,7 @@
       
 
       
-        <summary type="html">Oh, so you want detailed data in form of highlight table that includes info button for each row? I got you covered!</summary>
+        <summary type="html">Oh, so you want detailed data in form of highlight table that includes info button for each row? I got you covered! First published on The Information Lab Blog.</summary>
       
 
       
@@ -425,50 +468,7 @@
       
 
       
-        <summary type="html">Say you have data that gets regularly updated and you need to send those updates to multiple people. Build automated reports with Alteryx!</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">DS13 seating analysis</title>
-      {% if post.external.external_url %}
-        <link href="{{ post.external_url}}" rel="canonical" title="{{ post.title | xml_escape }}" />
-      {% else %}
-        <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
-      {% endif %}
-      <published>2019-05-24T01:00:00+00:00</published>
-      <updated>2019-05-24T01:00:00+00:00</updated>
-      <id>/ds13-seating-analysis</id>
-      {% if post.external.external_url %}
-        <content type="html" xml:base="{{ post.external_url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
-      {% else %}
-        <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
-      {% endif %}
-      
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Hanna Nykowska</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="tableau" />
-      
-
-      
-        <summary type="html">As we have finished our final presentations, there is one thing that’s left. The seating plan.</summary>
+        <summary type="html">Say you have data that gets regularly updated and you need to send those updates to multiple people. Build automated reports with Alteryx! First published on The Information Lab Blog.</summary>
       
 
       

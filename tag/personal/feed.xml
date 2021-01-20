@@ -8,7 +8,7 @@
     <link href="{{ page.url | absolute_url }}" rel="self" type="application/atom+xml" />
     <link href="{{ '/' | absolute_url }}" rel="alternate" type="text/html" {% if site.lang %}hreflang="{{ site.lang }}" {% endif %}/>
   {% endif %}
-  <updated>2021-01-10T10:26:34+00:00</updated>
+  <updated>2021-01-20T20:43:57+00:00</updated>
   <id>/tag/personal/feed.xml</id>
 
   
@@ -20,7 +20,7 @@
   
 
   
-    <subtitle>Data analyis, data visualisation, personal development, and more by Hanna Nykowska</subtitle>
+    <subtitle>All things data and more by Hanna Nykowska</subtitle>
   
 
   
@@ -75,7 +75,7 @@
       
 
       
-        <summary type="html">It’s the very last week of training for DS13. It was a crazy ride but fun at that, so here are my top moments of being at the Data School so far.</summary>
+        <summary type="html">It’s the very last week of training for DS13. It was a crazy ride but fun at that, so here are my top moments of being at the Data School so far. First published on The Data School Blog.</summary>
       
 
       
@@ -118,7 +118,7 @@
       
 
       
-        <summary type="html">In one of my previous blog posts, I wrote some tips on project management. But I didn’t really share my personal experience. Let’s get personal.</summary>
+        <summary type="html">In one of my previous blog posts, I wrote some tips on project management. But I didn’t really share my personal experience. Let’s get personal. First published on The Data School Blog.</summary>
       
 
       
@@ -161,7 +161,7 @@
       
 
       
-        <summary type="html">The practical lessons I’ve learnt during my time as project manager.</summary>
+        <summary type="html">The practical lessons I’ve learnt during my time as project manager. First published on The Data School Blog.</summary>
       
 
       
@@ -206,7 +206,7 @@
       
 
       
-        <summary type="html">My experience with teaching Tableau to others: public and another cohort in person, and public via webinar. The Good, the Bad and Lessons Learnt.</summary>
+        <summary type="html">My experience with teaching Tableau to others: public and another cohort in person, and public via webinar. The Good, the Bad and Lessons Learnt. First published on The Data School Blog.</summary>
       
 
       
@@ -249,7 +249,7 @@
       
 
       
-        <summary type="html">Seemingly, listening to other people talk about their struggles and how they deal with or even overcome them is actually quite helpful. With that in mind, I thought I’d share some of my experience.</summary>
+        <summary type="html">Seemingly, listening to other people talk about their struggles and how they deal with or even overcome them is actually quite helpful. With that in mind, I thought I’d share some of my experience. First published on The Data School Blog.</summary>
       
 
       

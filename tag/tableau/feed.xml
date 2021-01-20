@@ -8,7 +8,7 @@
     <link href="{{ page.url | absolute_url }}" rel="self" type="application/atom+xml" />
     <link href="{{ '/' | absolute_url }}" rel="alternate" type="text/html" {% if site.lang %}hreflang="{{ site.lang }}" {% endif %}/>
   {% endif %}
-  <updated>2021-01-10T10:26:34+00:00</updated>
+  <updated>2021-01-20T20:43:57+00:00</updated>
   <id>/tag/tableau/feed.xml</id>
 
   
@@ -20,7 +20,7 @@
   
 
   
-    <subtitle>Data analyis, data visualisation, personal development, and more by Hanna Nykowska</subtitle>
+    <subtitle>All things data and more by Hanna Nykowska</subtitle>
   
 
   
@@ -77,7 +77,7 @@
       
 
       
-        <summary type="html">Briefly explaining what the Index Trick is all about during London TUG Summer Sessions.</summary>
+        <summary type="html">Briefly explaining what the Index Trick is all about during London TUG Summer Sessions. First published on YouTube</summary>
       
 
       
@@ -120,7 +120,7 @@
       
 
       
-        <summary type="html">I wanted to share something that I have found very useful in the past year. What I have in mind, is something I call ‘the Index trick’.</summary>
+        <summary type="html">I wanted to share something that I have found very useful in the past year. What I have in mind, is something I call ‘the Index trick’. First published on The Information Lab Blog.</summary>
       
 
       
@@ -163,7 +163,7 @@
       
 
       
-        <summary type="html">Want to build a chord chart but don’t have access to fancy data preparation tools? I got you covererd!</summary>
+        <summary type="html">Want to build a chord chart but don’t have access to fancy data preparation tools? I got you covererd! First published on The Information Lab Blog.</summary>
       
 
       
@@ -206,7 +206,7 @@
       
 
       
-        <summary type="html">Oh, so you want detailed data in form of highlight table that includes info button for each row? I got you covered!</summary>
+        <summary type="html">Oh, so you want detailed data in form of highlight table that includes info button for each row? I got you covered! First published on The Information Lab Blog.</summary>
       
 
       
@@ -249,7 +249,7 @@
       
 
       
-        <summary type="html">As we have finished our final presentations, there is one thing that’s left. The seating plan.</summary>
+        <summary type="html">As we have finished our final presentations, there is one thing that’s left. The seating plan. First published on The Data School Blog.</summary>
       
 
       
@@ -292,7 +292,7 @@
       
 
       
-        <summary type="html">What are user filters and how can you start using them.</summary>
+        <summary type="html">What are user filters and how can you start using them. First published on The Data School Blog.</summary>
       
 
       
@@ -335,7 +335,7 @@
       
 
       
-        <summary type="html">Can you use the saved colour palettes without picking the screen colour or copying the hex codes? Keep on reading.</summary>
+        <summary type="html">Can you use the saved colour palettes without picking the screen colour or copying the hex codes? Keep on reading. First published on The Data School Blog.</summary>
       
 
       
@@ -378,7 +378,7 @@
       
 
       
-        <summary type="html">Continuing on my post on FIXED LODs, I wanted to shed some light on INCLUDE and EXCLUDE Level of Detail expressions.</summary>
+        <summary type="html">Continuing on my post on FIXED LODs, I wanted to shed some light on INCLUDE and EXCLUDE Level of Detail expressions. First published on The Data School Blog.</summary>
       
 
       
@@ -421,7 +421,7 @@
       
 
       
-        <summary type="html">Dashboard week day 2! Looking at deaths among the avengers while building an infographic.</summary>
+        <summary type="html">Dashboard week day 2! Looking at deaths among the avengers while building an infographic. First published on The Data School Blog.</summary>
       
 
       
@@ -464,7 +464,7 @@
       
 
       
-        <summary type="html">Trying to understand Level Of Detail (LOD) expressions in Tableau? You’re in the right place.</summary>
+        <summary type="html">Trying to understand Level Of Detail (LOD) expressions in Tableau? You’re in the right place. First published on The Data School Blog.</summary>
       
 
       
