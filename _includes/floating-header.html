@@ -30,13 +30,6 @@
     >
       {% include facebook.html %}
     </a>
-    <a
-      class="floating-header-share-li"
-      href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.destination_url }}{{ page.url | remove_first: '/' }}&source={{ page.CNAME }}"
-      onclick="window.open(this.href, 'share-linkedin','width=580,height=296');return false;"
-    >
-      {% include linkedin.html %}
-    </a>
   </div>
   <progress class="progress" value="0">
     <div class="progress-container">
