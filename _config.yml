@@ -79,6 +79,7 @@ relative_source: ../hanykowska.github.io
 destination: ./_site/
 production_url: https://hanykowska.github.io/
 source_url: https://github.com/hanykowska/hanykowska.github.io
+destination_url: https://www.hanykowska.com/
 
 exclude:
   - assets/css
