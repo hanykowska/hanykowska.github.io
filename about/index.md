@@ -10,13 +10,19 @@ permalink: /about-me/
 
 ![](/assets/images/hanykowska_genesis_fast.gif)
 
-Hi! I've been called many names: Hanna, Hania, Han, Haneczka, Hanka, Hanula, Hanuta, Hanusia, Hanulka, even Heniek (my brother thought it was funny to call me by a boy's name). My full name is Hanna Nykowska.
-Welcome to my world.
+Hi! I’ve been called many names: Hanna, Hania, Han, Haneczka, Hanka, Hanula, Hanuta, Hanusia, Hanulka, even Heniek. My full name is Hanna Nykowska - everyone call me Hania. Welcome!
 
-Apart from having to deal with my brother, my childhood was a happy one. Growing up in a family where everyone in my proximity had technical or math-related background it's no wonder I kept that direction. I went on to study biomedical engineering which is a fantastic field combining knowledge on human body and engineering.
+I am very passionate about solving various problems and empowering people to do the same by asking questions and challenging their way of thinking. If you’ve met me, you know that I value transparent and, lately, compassionate communication.
 
-Currently on holidays 😎 I worked as a Data Analyst Consultant, proudly representing [The Data School](https://www.thedataschool.co.uk/) and [The Information Lab](https://www.theinformationlab.co.uk/). I have extensively used Tableau and Alteryx over the past two years but I also have some experience with python and now Jekyll!
+Growing up in a family where everyone in my proximity had technical or math-related background it’s no wonder I stayed in that direction:
+I’ve been working as a Data Analytics Consultant since 2019 and my areas of expertise are data process automation and reports building. In that section of my life, one of my ambitions is building reliable processes that reduce manual work and make my and others’ lives easier. 
 
-This blog will refer any technical posts, or anything I deem interesting, I wrote elsewhere. However, it is not just a redirect to blogs hosted on other websites. Now that I have my very own corner of the internet I can finally play with more things, eg. embedding Tableau dashboards!
+To balance the mind and intellectual activity, I’ve been also exploring the artistic and spiritual side of me through classes and regular meditation. This is bringing up for me more and more questions on what a sustainable way of working means and how we can be better for one another. No answers yet, but they are something I will be searching for!
 
-Look out for some personal development posts as I learn how to appreciate, celebrate, and nourish my mental health in personal and work lives.
+
+I have set up this blog site back in 2020 trying to fill the time in lockdowns. It was a fantastic journey where I have learned a lot. You may have noticed that the last entries are not recent. Not recent at all. There are two reasons for this:
+1. Following the pandemic, I’ve been on a hiatus from online life, exploring the joys of IRL experiences. A comeback to online presence is imminent… - stay tuned!
+2. Unfortunately, I did not write a blog post on how exactly I set up the backbones of developing and testing this site. No blog that I could follow now on another laptop! Bear with me as I go through this process again and create more blogs in the near future. (I’ll make sure to properly document the process this time round!)
+
+
+Thanks for reading!
